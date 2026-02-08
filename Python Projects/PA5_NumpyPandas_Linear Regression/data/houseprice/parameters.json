@@ -1,0 +1,1 @@
+{"feature_idx": [0, 1, 2, 3, 4, 5], "name": "Housing", "target_idx": 8, "training_fraction":0.55, "seed":22992, "standardization": "no"}
