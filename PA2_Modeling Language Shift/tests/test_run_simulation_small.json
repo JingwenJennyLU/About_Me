@@ -1,0 +1,158 @@
+[
+    {
+        "input_filename": "writeup-grid.txt",
+        "expected_filename": "tests/writeup-grid-1-6-8-16-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 1"
+    }, 
+    {
+        "input_filename": "writeup-grid.txt",
+        "expected_filename": "tests/writeup-grid-2-6-8-16-1-final.txt",
+        "R": 2,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with R: 2, (A, B, C): (0.6, 0.8, 1.6), max_steps: 1"
+    }, 
+    {
+        "input_filename": "writeup-grid.txt",
+        "expected_filename": "tests/writeup-grid-1-6-8-16-2-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 2,
+        "test_category": "small",
+        "purpose": "Writeup region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 2"
+    }, 
+    {
+        "input_filename": "writeup-grid.txt",
+        "expected_filename": "tests/writeup-grid-1-6-8-16-5-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "small",
+        "purpose": "Writeup region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    }, 
+    {
+        "input_filename": "writeup-grid.txt",
+        "expected_filename": "tests/writeup-grid-1-4-6-12-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.4,
+            0.6,
+            1.2
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with R: 1, (A, B, C): (0.4, 0.6, 1.2), max_steps: 1"
+    }, 
+    {
+        "input_filename": "writeup-grid-with-cc.txt",
+        "expected_filename": "tests/writeup-grid-with-cc-1-6-8-16-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with community center and R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 1"
+    },
+    {
+        "input_filename": "writeup-grid-with-cc.txt",
+        "expected_filename": "tests/writeup-grid-with-cc-2-6-8-16-1-final.txt",
+        "R": 2,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with community center and R: 2, (A, B, C): (0.6, 0.8, 1.6), max_steps: 1"
+    },
+    {
+        "input_filename": "writeup-grid-with-cc.txt",
+        "expected_filename": "tests/writeup-grid-with-cc-1-6-8-16-2-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 2,
+        "test_category": "small",
+        "purpose": "Writeup region with community center and R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 2"
+    },
+    {
+        "input_filename": "writeup-grid-with-cc.txt",
+        "expected_filename": "tests/writeup-grid-with-cc-1-6-8-16-5-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "small",
+        "purpose": "Writeup region with community center and R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    },
+    {
+        "input_filename": "writeup-grid-with-cc.txt",
+        "expected_filename": "tests/writeup-grid-with-cc-1-4-6-12-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.4,
+            0.6,
+            1.2
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Writeup region with community center and R: 1, (A, B, C): (0.4, 0.6, 1.2), max_steps: 1"
+    },
+    {
+        "input_filename": "mostly-DL.txt",
+        "expected_filename": "tests/mostly-DL-1-6-8-16-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 1,
+        "test_category": "small",
+        "purpose": "Mostly DL region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 1"
+    },
+    {
+        "input_filename": "mostly-DL.txt",
+        "expected_filename": "tests/mostly-DL-1-6-8-16-5-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "small",
+        "purpose": "Mostly DL region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    }
+]

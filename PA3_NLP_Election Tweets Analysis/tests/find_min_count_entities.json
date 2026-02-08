@@ -1,0 +1,357 @@
+[
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "Test whether keys and subkeys are handled properly in find_top_k_entities",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "Poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "Test whether upper and lower case is handled properly",
+        "expected": [
+            "Poodle",
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        },
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "Test whether entity multiplicity is handled properly",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bad"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "Test whether functionality works end-to-end",
+        "expected": [
+            "#bad",
+            "#abc",
+            "#bcd"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bad"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 2,
+        "purpose": "Test whether functionality works end-to-end",
+        "expected": [
+            "#abc",
+            "#bcd"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bad"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 3,
+        "purpose": "Test whether functionality works end-to-end",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/LibDems.json",
+        "entity_desc": [
+            "user_mentions",
+            "screen_name",
+            true
+        ],
+        "min_count": 100,
+        "purpose": "min count entities example",
+        "expected": [
+            "LiberalBritain",
+            "LibDems",
+            "timfarron",
+            "LibDemPress"
+        ]
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "entity_desc": [
+            "urls",
+            "url",
+            true
+        ],
+        "min_count": 2,
+        "purpose": "basic test",
+        "expected": [
+            "https://t.co/pQVZV0usx0",
+            "https://t.co/AS6Y8zyKKR",
+            "https://t.co/BLA7U0qGN6",
+            "https://t.co/ayh87fWvfa",
+            "https://t.co/F2d1tRBFQt",
+            "https://t.co/mGB7sO9Lnc"
+        ]
+    },
+    {
+        "tweets_file": "data/zero-tweets.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "corner case: list of tweets is empty",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 0,
+        "purpose": "corner case: k is 0",
+        "expected": [
+            "VoteLabour",
+            "labourdoorstep",
+            "Greenwich",
+            "UKLabour",
+            "ColneValley",
+            "Meltham",
+            "LabourDoorstep",
+            "HolmeValley",
+            "MayDay2017",
+            "TeamBarbara",
+            "LiverpoolMayor",
+            "GE17",
+            "MayDay",
+            "Labourdoorstep",
+            "Woolwich",
+            "GE2017"
+        ]
+    },
+    {
+        "tweets_file": "data/corner-2.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 1,
+        "purpose": "corner case: one tweet with one 1 hashtag",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/corner-2.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "min_count": 3,
+        "purpose": "corner case: one tweet with one hashtag, k greater than 1",
+        "expected": []
+    }
+]

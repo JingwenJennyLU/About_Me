@@ -1,0 +1,67 @@
+[
+    {
+        "input_filename": "large-grid.txt",
+        "expected_filename": "tests/large-grid-1-6-8-16-5-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "large",
+        "purpose": "Large region with R: 1, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    },
+	{
+        "input_filename": "large-grid.txt",
+        "expected_filename": "tests/large-grid-2-6-8-16-5-final.txt",
+        "R": 2,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "large",
+        "purpose": "Large region with R: 2, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    },
+	{
+        "input_filename": "large-grid.txt",
+        "expected_filename": "tests/large-grid-3-6-8-16-5-final.txt",
+        "R": 3,
+        "thresholds": [
+            0.6,
+            0.8,
+            1.6
+        ],
+        "max_steps": 5,
+        "test_category": "large",
+        "purpose": "Large region with R: 3, (A, B, C): (0.6, 0.8, 1.6), max_steps: 5"
+    },
+	{
+        "input_filename": "large-grid.txt",
+        "expected_filename": "tests/large-grid-1-4-6-12-1-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.4,
+            0.6,
+            1.2
+        ],
+        "max_steps": 1,
+        "test_category": "large",
+        "purpose": "Large region with R: 1, (A, B, C): (0.4, 0.6, 1.2), max_steps: 1"
+    },
+	{
+        "input_filename": "large-grid.txt",
+        "expected_filename": "tests/large-grid-1-4-6-12-5-final.txt",
+        "R": 1,
+        "thresholds": [
+            0.4,
+            0.6,
+            1.2
+        ],
+        "max_steps": 5,
+        "test_category": "large",
+        "purpose": "Large region with R: 1, (A, B, C): (0.4, 0.6, 1.2), max_steps: 5"
+    }
+]

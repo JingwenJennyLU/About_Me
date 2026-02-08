@@ -1,0 +1,374 @@
+[
+    {
+        "tweets": [
+            {
+                "abridged_text": "the dog a dog"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Test Stop word removal and ordering",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "Dog dog"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Test handling cases",
+        "expected": [
+            [
+                "Dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog, ;...dog;... :dog ...dog... ;,:;,dog;...? cat"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Test punctuation removal",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": ";,:;,dog;...? cat."
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Test punctuation removal",
+        "expected": [
+            [
+                "dog",
+                "cat"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "@Dog dog http://dog.html"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Test to see if prefix filtering is done properly",
+        "expected": []
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog's are good"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "check mid-word punctuation remains",
+        "expected": [
+            [
+                "are",
+                "good"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog ...... dog ;;;; dog :;\" "
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "Empty string removal",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "cat",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 1,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "hat"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog cat dog"
+            },
+            {
+                "abridged_text": "dog dog cat dog"
+            },
+            {
+                "abridged_text": "dog"
+            }
+        ],
+        "n": 2,
+        "k": 1,
+        "case_sensitive": false,
+        "purpose": "verify that tweets are not combined when computing ngrams.",
+        "expected": [
+            [
+                "cat",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 3,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "don't",
+                "let",
+                "cat"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 4,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "don't",
+                "let",
+                "cat",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/theSNP.json",
+        "n": 2,
+        "k": 3,
+        "case_sensitive": true,
+        "purpose": "top k ngrams example",
+        "expected": [
+            [
+                "RT",
+                "I'm"
+            ],
+            [
+                "Nicola",
+                "Sturgeon"
+            ],
+            [
+                "Read",
+                "more"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 1,
+        "k": 3,
+        "case_sensitive": true,
+        "purpose": "basic test",
+        "expected": [
+            [
+                "RT"
+            ],
+            [
+                "Labour"
+            ],
+            [
+                "our"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 3,
+        "k": 3,
+        "case_sensitive": true,
+        "purpose": "basic test",
+        "expected": [
+            [
+                "We",
+                "will",
+                "deliver"
+            ],
+            [
+                "With",
+                "us",
+                "RT"
+            ],
+            [
+                "calculator",
+                "see",
+                "how"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/zero-tweets.json",
+        "n": 1,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "corner cases: list of tweets is empty",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 1,
+        "k": 0,
+        "case_sensitive": true,
+        "purpose": "corner cases: k is 0",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 1,
+        "k": 3,
+        "case_sensitive": true,
+        "purpose": "corner case: check empty sets for stop words and stop prefixes.",
+        "expected": [
+            [
+                "RT"
+            ],
+            [
+                "Labour"
+            ],
+            [
+                "our"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/entities-only.json",
+        "n": 1,
+        "k": 3,
+        "case_sensitive": true,
+        "purpose": "corner case: file contains a single tweet that contains only hashtags,\nurls, and user_mentions.  Preprocessing the text will\nyield an empty list of ngrams",
+        "expected": [
+            [
+                "RT"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/syn-0.json",
+        "n": 1,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "corner case: check whether punctuation is stripped properly.\nfile contains a single synthetic tweet:   'Hillary $$Hillary Hillary. hillary ..Hillary..'",
+        "expected": [
+            [
+                "Hillary"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/syn-1.json",
+        "n": 2,
+        "k": 1,
+        "case_sensitive": true,
+        "purpose": "corner case: check whether tweets that have fewer than\nn words are handled properly.\nfile contains a single synthetic tweet:   'hillary'",
+        "expected": []
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "created_at": "Thu May 04 18:28:05 +0000 2017",
+        "extended_entities": {
+            "media": [
+                {
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "additional_media_info": {
+                        "description": "",
+                        "title": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    },
+                    "id": 859864007225864197,
+                    "expanded_url": "https://twitter.com/UKLabour/status/860199366312706048/video/1",
+                    "sizes": {
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 360,
+                            "w": 684
+                        },
+                        "large": {
+                            "resize": "fit",
+                            "h": 360,
+                            "w": 684
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 358,
+                            "w": 680
+                        }
+                    },
+                    "media_url": "http://pbs.twimg.com/media/C-7b-TaXgAAK4WI.jpg",
+                    "video_info": {
+                        "aspect_ratio": [
+                            40,
+                            21
+                        ],
+                        "variants": [
+                            {
+                                "url": "https://video.twimg.com/amplify_video/859864007225864197/vid/684x360/ShMjn57yv6JRHjj8.mp4",
+                                "bitrate": 832000,
+                                "content_type": "video/mp4"
+                            },
+                            {
+                                "url": "https://video.twimg.com/amplify_video/859864007225864197/pl/3FnyvORyZEA16RYR.m3u8",
+                                "content_type": "application/x-mpegURL"
+                            },
+                            {
+                                "url": "https://video.twimg.com/amplify_video/859864007225864197/vid/342x180/NIpsarevC65ebyJt.mp4",
+                                "bitrate": 320000,
+                                "content_type": "video/mp4"
+                            }
+                        ],
+                        "duration_millis": 8100
+                    },
+                    "url": "https://t.co/zrLxZCoJ9Y",
+                    "media_url_https": "https://pbs.twimg.com/media/C-7b-TaXgAAK4WI.jpg",
+                    "display_url": "pic.twitter.com/zrLxZCoJ9Y",
+                    "type": "video",
+                    "id_str": "859864007225864197"
+                }
+            ]
+        },
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "text": "Voted Labour? \u2714 \nReminded your friends and family to do the same? \u2714 \nRetweet this \u2193 https://t.co/zrLxZCoJ9Y",
+        "contributors": null,
+        "place": null,
+        "in_reply_to_user_id": null,
+        "entities": {
+            "user_mentions": [],
+            "hashtags": [],
+            "media": [
+                {
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/zrLxZCoJ9Y",
+                    "id": 859864007225864197,
+                    "media_url_https": "https://pbs.twimg.com/media/C-7b-TaXgAAK4WI.jpg",
+                    "expanded_url": "https://twitter.com/UKLabour/status/860199366312706048/video/1",
+                    "display_url": "pic.twitter.com/zrLxZCoJ9Y",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 360,
+                            "w": 684
+                        },
+                        "large": {
+                            "resize": "fit",
+                            "h": 360,
+                            "w": 684
+                        },
+                        "small": {
+                            "resize": "fit",
+                            "h": 358,
+                            "w": 680
+                        }
+                    },
+                    "media_url": "http://pbs.twimg.com/media/C-7b-TaXgAAK4WI.jpg",
+                    "id_str": "859864007225864197"
+                }
+            ],
+            "symbols": [],
+            "urls": []
+        },
+        "geo": null,
+        "truncated": false,
+        "possibly_sensitive": false,
+        "id_str": "860199366312706048",
+        "coordinates": null,
+        "favorited": false,
+        "id": 860199366312706048,
+        "user": {
+            "protected": false,
+            "created_at": "Thu Apr 03 08:57:48 +0000 2008",
+            "verified": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14291684/1493459322",
+            "lang": "en",
+            "profile_text_color": "333333",
+            "favourites_count": 211,
+            "is_translation_enabled": false,
+            "time_zone": "London",
+            "url": "http://t.co/3KXmtnXffi",
+            "contributors_enabled": false,
+            "name": "The Labour Party",
+            "profile_link_color": "000000",
+            "listed_count": 4045,
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711224542/79d5911088c3a717327231614332cea2.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877185856284626944/3UCE2GVZ_normal.jpg",
+            "description": "We are the UK Labour Party. Follow us for the latest news, speeches, policies and ways to get involved. #ForTheMany #VoteLabour",
+            "geo_enabled": false,
+            "statuses_count": 21061,
+            "id_str": "14291684",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711224542/79d5911088c3a717327231614332cea2.png",
+            "profile_background_tile": false,
+            "is_translator": false,
+            "default_profile_image": false,
+            "id": 14291684,
+            "location": "",
+            "has_extended_profile": false,
+            "profile_background_color": "F0F0F0",
+            "screen_name": "UKLabour",
+            "utc_offset": 3600,
+            "default_profile": false,
+            "notifications": false,
+            "followers_count": 505028,
+            "profile_sidebar_fill_color": "EBF6FA",
+            "following": false,
+            "friends_count": 14135,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877185856284626944/3UCE2GVZ_normal.jpg",
+            "translator_type": "none",
+            "follow_request_sent": false,
+            "profile_use_background_image": true,
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "display_url": "labour.org.uk",
+                            "expanded_url": "http://www.labour.org.uk",
+                            "url": "http://t.co/3KXmtnXffi"
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            }
+        },
+        "in_reply_to_screen_name": null,
+        "in_reply_to_user_id_str": null,
+        "retweet_count": 422,
+        "in_reply_to_status_id": null,
+        "lang": "en",
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+        "retweeted": false,
+        "favorite_count": 315,
+        "abridged_text": "Voted Labour?   \nReminded your friends and family to do the same?   \nRetweet this   https://t.co/zrLxZCoJ9Y"
+    }
+]

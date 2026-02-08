@@ -1,0 +1,30 @@
+[
+    {"items": [],
+     "min_count": 1,
+     "expected": [],
+     "purpose": "Check empty list"},
+
+    {"items": ["A", "A", "A"],
+     "min_count": 2,
+     "expected": ["A"],
+     "purpose": "Test basic functionality: more tokens than min_count"},
+
+
+    {"items": ["A", "A", "A"],
+     "min_count": 3,
+     "expected": ["A"],
+     "purpose": "Test basic functionality: exact match"},
+
+    {"items": ["A", "A", "A"],
+     "min_count": 4,
+     "expected": [],
+     "purpose": "Test basic functionality: fewer tokens than min_count"},
+
+    {"items": ["D", "B", "C", "D", "D", "B", "D", "C", "D", "A"],
+     "min_count": 2,
+     "expected": ["B", "C", "D"],
+     "purpose": "Test basic functionality: multiple tokens"}
+]
+
+
+

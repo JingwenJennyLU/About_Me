@@ -1,0 +1,32 @@
+[
+    {"items": [],
+     "k": 1,
+     "expected": [],
+     "purpose": "Empty list"},
+
+    {"items": ["A", "A"],
+     "k": 1,
+     "expected": ["A"],
+     "purpose": "Basic functionality"},
+
+    {"items": ["A", "A", "A"],
+     "k": 2,
+     "expected": ["A"],
+     "purpose": "Basic functionality: fewer than K tokens"},
+
+    {"items": ["D", "B", "C", "D", "D", "B", "D", "C", "D", "A"],
+     "k": 3,
+     "expected":  ["D", "B", "C"],
+     "purpose": "Basic functionality: multiple tokens"},
+
+    {"items": ["D", "B", "C", "D", "D", "B", "D", "C", "D", "A"],
+     "k": 2,
+     "expected":  ["D", "B"],
+     "purpose": "Basic functionality: check ties"},
+
+    {"items": ["D", "B", "C", "D", "D", "B", "D", "C", "D", "A"],
+     "k": 4,
+     "expected":  ["D", "B", "C", "A"],
+     "purpose": "Basic functionality: all tokens in response"}
+]
+

@@ -1,0 +1,325 @@
+[
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "k": 1,
+        "purpose": "Test whether keys and subkeys are handled properly in find_top_k_entities",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "Poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "k": 1,
+        "purpose": "Test whether keys and subkeys are handled properly in find_top_k_entities. Case-sensitive",
+        "expected": [
+            "Poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "Poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            false
+        ],
+        "k": 1,
+        "purpose": "Test whether keys and subkeys are handled properly in find_top_k_entities. Case-insensitive",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        },
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            true
+        ],
+        "k": 1,
+        "purpose": "Test whether entity multiplicity is handled properly. Case-sensitive",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "dogs": [
+                        {
+                            "type": "poodle"
+                        },
+                        {
+                            "type": "poodle"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "dogs",
+            "type",
+            false
+        ],
+        "k": 1,
+        "purpose": "Test whether entity multiplicity is handled properly. Case-sensitive",
+        "expected": [
+            "poodle"
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bad"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#bcd"
+                        }
+                    ]
+                }
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "#abc"
+                        }
+                    ]
+                }
+            }
+        ],
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 2,
+        "purpose": "Test functionality.",
+        "expected": [
+            "#abc",
+            "#bcd"
+        ]
+    },
+    {
+        "tweets_file": "data/theSNP.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 3,
+        "purpose": "top-k entities example",
+        "expected": [
+            "votesnp",
+            "ge17",
+            "snpbecause"
+        ]
+    },
+    {
+        "tweets_file": "data/theSNP.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "k": 3,
+        "purpose": "top-k entities example",
+        "expected": [
+            "VoteSNP",
+            "GE17",
+            "GE2017"
+        ]
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "entity_desc": [
+            "user_mentions",
+            "screen_name",
+            false
+        ],
+        "k": 1,
+        "purpose": "basic test",
+        "expected": [
+            "jeremycorbyn"
+        ]
+    },
+    {
+        "tweets_file": "data/zero-tweets.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 1,
+        "purpose": "corner case: list of tweets is empty",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 0,
+        "purpose": "corner case:k is 0",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/corner-2.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 1,
+        "purpose": "corner case: the file corner-2 contains one tweet w/ 0 hashtags",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/corner-2.json",
+        "entity_desc": [
+            "urls",
+            "url",
+            true
+        ],
+        "k": 1,
+        "purpose": "corner case: corner-2 has one tweet w/ 0 urls",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/corner-2.json",
+        "entity_desc": [
+            "user_mentions",
+            "screen_name",
+            false
+        ],
+        "k": 1,
+        "purpose": "corner case: corner-2 has one tweet w/ 0 user mentions",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/corner-3.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            true
+        ],
+        "k": 3,
+        "purpose": "corner case: one tweet w/ 1 hashtag",
+        "expected": [
+            "labourdoorstep"
+        ]
+    },
+    {
+        "tweets_file": "data/corner-3.json",
+        "entity_desc": [
+            "hashtags",
+            "text",
+            false
+        ],
+        "k": 3,
+        "purpose": "corner case: one tweet w/ 1 hashtag",
+        "expected": [
+            "labourdoorstep"
+        ]
+    }
+]

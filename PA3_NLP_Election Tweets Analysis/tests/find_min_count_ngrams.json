@@ -1,0 +1,255 @@
+[
+    {
+        "tweets": [
+            {
+                "abridged_text": "the dog a dog"
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Test Stop word removal and ordering",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "Dog dog"
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Test handling cases",
+        "expected": [
+            [
+                "Dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog, dog; :dog ...dog..."
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Test punctuation removal",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "@Dog dog http://dog.html"
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Test to see if prefix filtering is done properly",
+        "expected": []
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog's are good"
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "check mid-word punctuation remains",
+        "expected": [
+            [
+                "dog's",
+                "are"
+            ],
+            [
+                "are",
+                "good"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "dog ...... dog ;;;; dog :;\" "
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Empty string removal",
+        "expected": [
+            [
+                "dog",
+                "dog"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": ";"
+            }
+        ],
+        "n": 2,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "Empty string after cleaning",
+        "expected": []
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 2,
+        "min_count": 2,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "cat",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 3,
+        "min_count": 2,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": []
+    },
+    {
+        "tweets": [
+            {
+                "abridged_text": "the cat in the hat"
+            },
+            {
+                "abridged_text": "don't let the cat on the hat"
+            },
+            {
+                "abridged_text": "the cat's hat"
+            },
+            {
+                "abridged_text": "the hat cat"
+            }
+        ],
+        "n": 4,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": " Test to end-to-end functionality",
+        "expected": [
+            [
+                "don't",
+                "let",
+                "cat",
+                "hat"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/LibDems.json",
+        "n": 2,
+        "min_count": 100,
+        "case_sensitive": true,
+        "purpose": "min count ngrams example",
+        "expected": [
+            [
+                "stand",
+                "up"
+            ],
+            [
+                "can",
+                "stop"
+            ],
+            [
+                "will",
+                "stand"
+            ],
+            [
+                "RT",
+                "Only"
+            ],
+            [
+                "Lib",
+                "Dems"
+            ],
+            [
+                "stop",
+                "Tories"
+            ],
+            [
+                "Theresa",
+                "May"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 1,
+        "min_count": 30,
+        "case_sensitive": true,
+        "purpose": "basic test",
+        "expected": [
+            [
+                "RT"
+            ]
+        ]
+    },
+    {
+        "tweets_file": "data/zero-tweets.json",
+        "n": 1,
+        "min_count": 1,
+        "case_sensitive": true,
+        "purpose": "corner cases: list of tweets is empty",
+        "expected": []
+    },
+    {
+        "tweets_file": "data/UKLabour-May-week1.json",
+        "n": 1,
+        "min_count": 150,
+        "case_sensitive": true,
+        "purpose": "corner case: no single word occurs at least 150 times.",
+        "expected": []
+    }
+]

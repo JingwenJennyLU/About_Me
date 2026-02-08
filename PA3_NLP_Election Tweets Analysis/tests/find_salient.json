@@ -1,0 +1,37 @@
+[
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["B"]],
+     "threshold": 0.40,
+     "expected": [["C", "D"], ["A"], ["B"]],
+     "description": "All words have some salience. Two documents have a word with salience below the threshold."},
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["B"]],
+     "threshold": 0.30,
+     "expected": [["C", "D"], ["A", "D"], ["B"]],
+     "description": "Check that the frequency of the word that occurs most often in the document is used to compute the augment frequency.  D will get dropped from the salient set for the second document if the implementation uses document length by mistake.  D will get dropped from the first and the second document if the implementation uses the length of the document."},
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["B"]],
+     "threshold": 0.0,
+     "expected": [["B", "C", "D"], ["A", "D"], ["B"]],
+     "description": "All words have salience above the threshold."},
+
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["D", "B"]],
+     "threshold": 0.25,
+     "expected": [["B", "C"], ["A"], ["B"]],
+     "description": "D appears in all three documents and so has a salience of zero.  Rest of words have salience above the threshold."},
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["D", "B"]],
+     "threshold": 1.0,
+     "expected": [["C"], ["A"], []],
+     "description": "D has a salience of zero.  Only C in the first document and A in the second document has a salience above 1.  The third document has no salient words. "},
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["D", "B"], []],
+     "threshold": 0.25,
+     "expected": [["B", "C", "D"], ["A"], ["B", "D"], []],
+     "description": "Includes an empty document"},
+
+    {"items": [["D", "B", "D", "C", "D", "C", "C"], ["D", "A", "A"], ["D", "B"]],
+     "threshold": 0.0,
+     "expected": [["B", "C"], ["A"], ["B"]],
+     "description": "Threshold of zero.  Pick up all words except D."}
+]
