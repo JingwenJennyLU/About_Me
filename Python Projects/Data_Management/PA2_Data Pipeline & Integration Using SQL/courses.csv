@@ -1,0 +1,2325 @@
+,course_id,dept,course_num,title
+0,1193,LING,24450,Lexical Functional Grammar.
+1,304,TAPS,24500,Chicago Theater: Budgets and Buildings.
+2,758,FNDL,21414,The Art of Leonardo da Vinci.
+3,1245,MATH,24300,Introduction to Algebraic Curves.
+4,402,NEHC,20603,Islamic Thought and Literature III.
+5,14,ANTH,21264,Political Struggles of Highland Asia.
+6,1655,FREN,33333,Reading French for Research Purposes.
+7,613,CMSC,15100,Introduction to Computer Science I.
+8,570,CRES,24706,Edo/Tokyo: Society and the City in Japan.
+9,23,ANTH,21429,"Idioms of Biopolitics: On Health, Power and Medicine."
+10,1603,RLST,20402,Islamic Thought and Literature II.
+11,1961,TBTN,20300,Second-Year Tibetan III.
+12,1100,HMRT,20116,Global-Local Politics.
+13,1278,FNDL,21714,"Boccaccio's ""Decameron"""
+14,1042,HIPS,25600,History of Statistics.
+15,1289,LATN,25000,Augustine's Confessions.
+16,1861,SOCI,20120,Urban Policy Analysis.
+17,544,CMLT,27451,Imagining the Hermit in Chinese Literature and Art.
+18,447,GREK,20200,Intermediate Greek II: Sophocles.
+19,1757,POLI,10203,First-Year Polish II.
+20,611,CMSC,12200,Computer Science with Applications II.
+21,272,CHEM,33300,Chemical Biology II.
+22,507,CHDV,25120,Child Development and Public Policy.
+23,2263,ENSC,23805,Stable Isotope Biogeochemistry.
+24,1523,PLSC,21009,Experiments in American Politics and Policy.
+25,1446,NEHC,20884,The Brighter Side of the Balkans: Humor & Satire in Lit & Film.
+26,1988,STAT,29700,Undergraduate Research.
+27,1858,SOCI,20112,Applications of Hierarchical Linear Models.
+28,1399,EGPT,20102,Introduction to Hieratic.
+29,58,ANTH,24512,Anthropology of Museums II.
+30,625,CMSC,22620,Implementation of Computer Languages II.
+31,973,HIST,25503,Junior Seminar: My Favorite Readings in the History and Philosophy of Science.
+32,1836,SOSC,24100,Introduction to Russian Civilization II.
+33,2228,BIOS,27714,Methods in Microbial Ecology – Marine Biological Laboratory.
+34,398,NEHC,20502,Islamic History and Society II: The Middle Period.
+35,2067,ARTV,25300,Introduction to Film Analysis.
+36,1049,HIPS,27302,"Culture, Mental Health, and Psychiatry."
+37,1568,PSYC,20100,Psychological Statistics.
+38,2118,BIOS,20151,Introduction to Quantitative Modeling in Biology (Basic)
+39,354,EALC,11000,Introduction to the Civilizations of East Asia III.
+40,2221,BIOS,25407,Organ Transplantation.
+41,371,HIST,13300,History of Western Civilization III.
+42,660,CHIN,20100,Intermediate Modern Chinese I.
+43,70,ANTH,25900,South Asian Archaeology.
+44,1003,HIST,29658,History Colloquium: European Cultural History.
+45,1231,MATH,19620,Linear Algebra.
+46,1275,ENGL,14801,Monsters and Men: Difference and Fear in Medieval England.
+47,145,ARTH,27215,Public Sculpture.
+48,1690,ITAL,24910,Italo Svevo.
+49,1235,MATH,20400,Analysis in Rn II.
+50,102,ANTH,29910,Bachelor's Essay Seminar.
+51,1044,HIPS,25901,Evolution of Mind and Morality: Nineteenth to Twenty-First Centuries.
+52,2138,BIOS,20200,Introduction to Biochemistry.
+53,1229,MATH,17600,Basic Geometry.
+54,2316,PHYS,23500,Quantum Mechanics II.
+55,2116,BIOS,15123,The Microbiome in Human and Environmental  Health.
+56,1509,PHIL,29400,Intermediate Logic.
+57,1805,REES,29016,"Poetics of Gender in the Balkans: Wounded Men, Sworn Virgins, Eternal Mothers."
+58,699,KORE,20100,Intermediate Korean I.
+59,1122,INST,29801,BA Thesis (Winter Seminar)
+60,317,CMST,24108,Indian Art Cinema.
+61,813,GEOG,26300,The Chinese Environment.
+62,35,ANTH,22609,Indigenous Methodologies.
+63,2148,BIOS,21317,Topics in Biological Chemistry.
+64,334,CMST,27702,Photography II.
+65,762,FNDL,24525,Hannah Arendt: On Revolution.
+66,870,GRMN,20300,Kurzprosa aus dem 20. Jahrhundert.
+67,1733,SPAN,29900,BA Paper Preparation: Spanish.
+68,52,ANTH,24101,Introduction to the Civilizations of South Asia I.
+69,325,CMST,25945,Digital Storytelling.
+70,609,CMSC,11710,Networks.
+71,1840,SOSC,25100,Urban Structure and Process.
+72,2064,ARTV,24401,Photography I.
+73,347,CMST,29800,Senior Colloquium.
+74,2114,BIOS,15115,Cancer Biology: How Good Cells Go Bad.
+75,1386,ARAM,10403,Elementary Syriac III.
+76,1224,MATH,15900,Introduction to Proofs in Analysis and Linear Algebra.
+77,400,NEHC,20601,Islamic Thought and Literature I.
+78,860,GEOS,29002,Field Course in Modern and Ancient Environments.
+79,1333,MUSI,23410,Music of the Middle East.
+80,2119,BIOS,20152,Introduction to Quantitative Modeling in Biology (Advanced)
+81,1385,ARAM,10402,Elementary Syriac II.
+82,203,BPRO,25000,Images of Time: Japanese History through Film.
+83,1362,MUSI,29700,Independent Study in Music.
+84,782,FNDL,23806,Consciousness and Critique: The Autobiographies of Dorothy Day and Malcolm X.
+85,1153,LLSO,25904,America in the Twentieth Century.
+86,770,FNDL,22901,Many Ramayanas.
+87,641,CMSC,25400,Machine Learning.
+88,2206,BIOS,25126,Animal Models of Human Disease.
+89,1150,LLSO,24901,U.S. Environmental Policy.
+90,1573,PSYC,20700,Sensation and Perception.
+91,1087,HUMA,20710,At the Piano I: Keyboard Studies for Non-Music Majors.
+92,1563,PLSC,29500,"Drugs, Guns, and Money: The Politics of Criminal Conflict."
+93,2264,ENSC,23820,Biogeochemical Analysis in Terrestrial and Aquatic Ecosystems – Marine Biological Laboratory.
+94,1549,PLSC,27216,Machiavelli's Political Thought.
+95,1699,PORT,13100,Accelerated Portuguese for Speakers of Romance Languages I.
+96,533,CMLT,25014,Writing towards Freedom: Slave Narratives and Emergent Black Writing.
+97,1851,SOCI,20005,Sociological Theory.
+98,1938,SALC,29800,BA Paper.
+99,1668,FREN,27600,Ancien Francais/Old French.
+100,1585,PSYC,24050,Understanding Wisdom.
+101,2319,PHYS,25000,Computational Physics.
+102,979,HIST,26411,Literature and History in the Ibero and Ibero-American World.
+103,1246,MATH,25400,Basic Algebra I.
+104,283,CHEM,38700,Biophysical Chemistry.
+105,1908,MARA,20100,Second-Year Marathi I.
+106,1023,HIPS,22401,Darwinian Health.
+107,1634,RLST,28715,Blood & Ink: Art at the Time of the Protestant Reformation.
+108,1093,HUMA,29700,Reading Course.
+109,1512,PHIL,29901,Senior Seminar I.
+110,1264,MATH,28100,Introduction to Complexity Theory.
+111,1642,CATA,21900,Contemporary Catalan Literature.
+112,958,HIST,23516,Medieval Masculinity.
+113,390,NEHC,20006,Ancient Near Eastern Thought and Literature III: Egypt.
+114,633,CMSC,23400,Mobile Computing.
+115,1019,HIPS,21301,The Anthropology of Science.
+116,1048,HIPS,26502,Social Studies of Science.
+117,1497,PHIL,22960,Introduction to Bayesian Epistemology.
+118,1849,SOCI,20001,Sociological Methods.
+119,81,ANTH,27135,Theories and Practices of Communicating Politically.
+120,1785,RUSS,21402,Advanced Russian through Media II.
+121,482,LATN,23400,Boethius: Consolation of Philosophy.
+122,1930,SALC,22900,Performance and Politics in India.
+123,1009,HIST,29801,BA Thesis Seminar I.
+124,1498,PHIL,23000,Introduction to Metaphysics and Epistemology.  100  Units.
+125,1807,REES,29700,Reading/Research: Russian and Eastern European Studies.
+126,1855,SOCI,20104,Urban Structure and Process.
+127,557,CRES,20104,Urban Structure and Process.
+128,2210,BIOS,25226,Endocrinology I: Cell Signaling.
+129,925,HIST,16103,Introduction to Latin American Civilization III.
+130,1989,STAT,29900,Bachelor's Paper.
+131,1011,HIPS,15002,Whales and Whaling in American History.
+132,982,HIST,27012,Histories of Violence in the United States.
+133,10,ANTH,21107,Anthropological Theory.
+134,1409,HEBR,10503,Introductory Modern Hebrew III.
+135,1964,URDU,10300,First-Year Urdu III.
+136,984,HIST,27506,Changing America in the Twentieth Century.
+137,220,BPRO,28000,"Terror, Religion, and Aesthetics."
+138,508,CHDV,25500,Language Socialization.
+139,898,GLST,23102,Global Studies II.
+140,1796,REES,26048,Russian Cinema.
+141,146,ARTH,27304,Photo/Modernism/Esthetic.
+142,1123,INST,29900,BA Thesis (Reading and Research)
+143,365,HIST,10102,Introduction to African Civilization II.
+144,1451,NEHC,29800,BA Paper Seminar.
+145,1882,SOCI,28069,Computing and Society.
+146,1917,SANS,10100,First-Year Sanskrit I.
+147,2035,TAPS,29100,Advanced Study: Choreography.
+148,108,ARTH,15600,Twentieth-Century Art.
+149,777,FNDL,26903,Gombrowicz: The Writer as Philosopher.
+150,2310,PHYS,22000,Introduction to Mathematical Methods in Physics.
+151,1782,RUSS,21102,Fourth-Year Russian through Short Story II.
+152,2147,BIOS,21249,"Organization, Expression, and Transmission of Genome Information."
+153,1090,HUMA,20713,At the Piano IV: Keyboard Studies for Non-Music Majors.
+154,1945,TAML,10200,First-Year Tamil II.
+155,909,HIST,12800,Music in Western Civilization II: 1750 to the Present.
+156,708,KORE,23100,Microeconomics and the Korean Economy.
+157,581,CRES,29000,"Latin American Religions, New and Old."
+158,436,CLCV,28300,Ephron Seminar: Getting to Happiness: Philosophy as a Way of Life from Antiquity to the Present.
+159,1578,PSYC,22831,Debates in Cognitive Neuroscience.
+160,1436,NEHC,20121,The Bible and Archaeology.
+161,1422,KAZK,20101,Intermediate Kazakh I.
+162,1348,MUSI,25600,Jazz Theory and Improvisation.
+163,255,CHEM,29900,Advanced Research in Chemistry.
+164,1880,SOCI,28067,Colleges and Universities in American Society.
+165,489,CCTS,43100,Topics in Global Health.
+166,1167,LLSO,28406,Nineteenth-Century Segment of the United States History Survey.
+167,2011,TAPS,26100,Dance Composition.
+168,1932,SALC,25304,Introduction to Hinduism.
+169,2201,BIOS,24247,Neurobiology of Disease II.
+170,592,CRES,27503,Racism without Race.
+171,931,HIST,17503,"Science, Culture, and Society in Western Civilization III: History of Medicine 2."
+172,2219,BIOS,25309,Cancer Metastasis.
+173,591,CRES,27302,"Gender, Sexuality, Indigenous Women in the Colonial Encounter."
+174,1270,ARTH,17211,Arts of Medieval Japan.
+175,531,CMLT,23702,Making a Scene.
+176,1728,SPAN,23915,"Narrativas de la violencia: literatura, cine y dictadura en el."
+177,1919,SANS,10300,First-Year Sanskrit III.
+178,1965,URDU,20100,Second-Year Urdu I.
+179,1091,HUMA,24005,Understanding Wisdom.
+180,634,CMSC,23500,Introduction to Database Systems.
+181,992,HIST,29301,Human Rights I: Philosophical Foundations of Human Rights.
+182,1635,RLST,29700,Reading and Research Course.
+183,1916,PALI,20300,Second-Year Pali III.
+184,1136,LLSO,21710,Machiavelli: The Prince and Discourses.
+185,1898,HIND,20300,Second-Year Hindi III.
+186,2055,ARTV,23805,Minimalist Experiment in Film and Video.
+187,1980,STAT,25100,Introduction to Mathematical Probability.
+188,193,BPRO,24150,"Romantic Love: Cultural, Philosophical, and Psychological Aspects."
+189,1306,MENG,26020,Engineering Electrodynamics.
+190,1076,HUMA,14000,"Reading Cultures: Collection, Travel, Exchange I."
+191,450,GREK,21200,Philosophy:  Plato's Phaedrus.
+192,1878,SOCI,20246,The Politics of Racial Knowledge.
+193,705,KORE,22100,Korean Contemporary TV and Language.
+194,2296,PHYS,12200,General Physics II.
+195,1143,LLSO,27202,Dante's Divine Comedy 2: Purgatorio and Vita Nova.
+196,1314,MENG,27300,Polymer Physics and Engineering.
+197,2168,BIOS,22306,Evolution and Development.
+198,1117,INST,24101,Paperwork.
+199,361,HIPS,17501,"Science, Culture, and Society in Western Civilization III: Medicine since the Renaissance."
+200,546,CMLT,28610,The German Romantic Lied.
+201,1623,RLST,26501,Renaissance Demonology.
+202,1689,ITAL,24410,Vichianism: The Italian (Counter-) Enlightenment.
+203,1808,REES,29900,B.A. Paper Workshop.
+204,542,CMLT,27114,"Faust, Myth of the Modern World."
+205,497,CHDV,20602,"Globalization, Immigration, and Culture."
+206,1395,EGPT,10103,Middle Egyptian Texts I.
+207,1725,SPAN,21903,Introducción a las literaturas hispánicas: textos hispanoamericanos desde la colonia a la independencia.
+208,1032,HIPS,24300,Foucault and The History of Sexuality.
+209,872,GRMN,21203,Drama und Film.
+210,104,ARTH,14107,Greek Art and Archaeology.
+211,551,CMLT,29701,"Introduction to Comparative Literature I: Problems, Methods, Precedents."
+212,1646,FREN,10006,Intensive Elementary French II.
+213,301,SOSC,25503,Teaching and Learning in Urban Schools.
+214,1077,HUMA,14100,"Reading Cultures: Collection, Travel, Exchange II."
+215,25,ANTH,21725,Mass Mediated Society and Japan.
+216,2096,BIOS,12116,The Human Body in Health and Disease.
+217,1947,TAML,20100,Second-Year Tamil I.
+218,902,GLST,29700,Reading/Research: Global Studies.
+219,379,HIST,16900,Ancient Mediterranean World III.
+220,1473,TURK,20103,Intermediate Turkish III.
+221,741,EALC,27451,Imagining the Hermit in Chinese Literature and Art.
+222,1060,HIPS,29900,Bachelor's Thesis.
+223,1720,SPAN,21100,Las regiones del español.
+224,2231,BIOS,27811,Global Health Sciences II: Microbiology.
+225,1051,HIPS,28202,Topics in Philosophy of Science: Mechanism and Causation.
+226,2078,ARTV,29850,Senior Seminar.
+227,960,HIST,24112,Early Modern Japanese History.
+228,138,ARTH,25810,Global Abstraction.
+229,1241,MATH,21200,Advanced Numerical Analysis.
+230,1164,LLSO,28000,United States Labor History.
+231,2191,BIOS,24203,Fundamentals of Neuroscience.
+232,1249,MATH,25700,Honors Basic Algebra I.
+233,803,GNSE,28604,Law and Social Movements in Modern America.
+234,2292,PHSC,18100,The Milky Way.
+235,1548,PLSC,27016,"Popular Culture, Art, and Autocracy."
+236,601,BIOS,26210,Mathematical Methods for Biological Sciences I.
+237,1769,POLI,24200,Polish Through Literary Readings II.
+238,2291,PHSC,13600,Natural Hazards.
+239,1380,ARAB,20103,Intermediate Arabic III.
+240,467,LATN,11100,Accelerated Introduction to Classical Latin I.
+241,1637,RLST,29900,BA Paper.
+242,1660,FREN,22810,Montaigne and Liberalism.
+243,31,ANTH,22400,Big Science and the Birth of the National Security State.
+244,284,CHEM,51100,Scientific Methods and Ethics.
+245,116,ARTH,17205,Islamic Gardens in Landscape and Image.
+246,1911,PALI,10100,First-Year Pali I.
+247,93,ANTH,28400,Bioarchaeology and the Human Skeleton.
+248,1877,SOCI,20245,Global Health and Inequality.
+249,1687,ITAL,22560,Poetic Postures of the Twentieth Century.
+250,486,CCTS,21003,Topics in Clinical Research.
+251,1971,STAT,22400,Applied Regression Analysis.
+252,656,CHIN,10300,Elementary Modern Chinese III.
+253,905,HIST,10800,Introduction to the Civilizations of South Asia I.
+254,956,HIST,23409,"After the Revolution: French Politics and Society, 1815–1914."
+255,618,CMSC,22001,Software Construction.
+256,1470,TURK,10107,Introduction to Old Turkic III.
+257,987,HIST,28000,United States Latinos: Origins and Histories.
+258,649,CMSC,28000,Introduction to Formal Languages.
+259,596,CRES,29800,BA Colloquium: Theory and Methods in Comparative Race and Ethnic Studies.
+260,217,BPRO,27000,Perspectives on Imaging.
+261,375,HIST,13900,Introduction to Russian Civilization I.
+262,1803,REES,29012,Returning the Gaze: The Balkans and Western Europe.
+263,2195,BIOS,24208,Survey of Systems Neuroscience.
+264,256,CHEM,30100,Advanced Inorganic Chemistry.
+265,1320,MUSI,10200,Introduction to World Music.
+266,408,CLCV,20900,Ancient Mediterranean World III.
+267,1360,MUSI,28500,Musicianship Skills.
+268,1328,MUSI,22806,Music in Fin-de-Siecle France.
+269,594,CRES,28011,Religions of the African Diaspora.
+270,1256,MATH,27000,Basic Complex Variables.
+271,1923,SALC,.  Ra,"to Rap, Kama Sutra to Kant: South Asian Aesthetics in Com."
+272,2295,PHYS,12100,General Physics I.
+273,1043,HIPS,25700,Science in Victorian Britain.
+274,1467,TURK,10103,Elementary Turkish III.
+275,1371,AANL,20901,Introduction to Hurrian.
+276,1800,REES,27023,"Writing the Jewish Body: Health, Disease, Literature."
+277,499,CHDV,21401,Introduction to African Civilization II.
+278,1490,PHIL,21410,Philosophy of Action.
+279,1029,HIPS,23700,Apes and Human Evolution.
+280,1545,PLSC,26305,Elections with(out) Choices? Comparative Approaches.
+281,1913,PALI,10300,First-Year Pali III.
+282,1826,SOSC,21100,Music in Western Civilization I: To 1750.
+283,1258,MATH,27300,Basic Theory of Ordinary Differential Equations.
+284,2156,BIOS,21415,Stem Cells in Development and Diseases.
+285,1752,CZEC,20300,Second-Year Czech III.
+286,1135,LLSO,20802,Machiavelli's Literary Works.
+287,2146,BIOS,21238,Cell Biology II.
+288,1931,SALC,23903,Buddhist Thought in India and Tibet.
+289,148,ARTH,29503,Mexican Murals.
+290,2226,BIOS,27712,Independent Undergraduate Research in Environmental Sciences – Marine Biological Laboratory.
+291,241,CHEM,22000,Organic Chemistry I.
+292,1866,SOCI,20179,Labor Force and Employment.
+293,181,BPRO,22500,"Medicine and Society: Things, Bodies, and Persons."
+294,1257,MATH,27200,Basic Functional Analysis.
+295,553,CMLT,29801,BA Project and Workshop: Comparative Literature.
+296,1332,MUSI,23300,Introduction to the Social and Cultural Study of Music.
+297,2198,BIOS,24218,Molecular Neurobiology.
+298,19,ANTH,21327,Anthropology of Labor.
+299,198,BPRO,24500,Language and Globalization.
+300,223,BPRO,28800,The Role of Animals in Modern Society.
+301,295,GEOG,23500,Urban Geography.
+302,1762,POLI,20103,Second-Year Polish I.
+303,222,BPRO,28500,Sex and Ethics.
+304,2053,ARTV,23801,Video.
+305,965,HIST,24608,Frontiers and Expansion in Modern China.
+306,1102,HMRT,23301,History of Humanitarian Intervention.
+307,1868,SOCI,20205,Medical Sociology.
+308,1711,SPAN,10300,Beginning Elementary Spanish III.
+309,1334,MUSI,23509,Eurovision Song Contest.
+310,907,HIST,12100,War in the Middle Ages.
+311,1234,MATH,20300,Analysis in Rn I.
+312,377,HIST,16700,Ancient Mediterranean World I.
+313,156,ASTR,20000,Tutorial in Astronomy and Astrophysics.
+314,1106,HMRT,25210,Anthropology of Disability.
+315,2216,BIOS,25266,Molecular Immunology.
+316,1592,PSYC,27010,Psycholinguistics.
+317,929,HIST,17501,"Science, Culture, and Society in Western Civilization III: Medicine since the Renaissance."
+318,1873,SOCI,20236,The Sociology of Development.
+319,767,FNDL,27202,Dante's Divine Comedy 2: Purgatorio and Vita Nova.
+320,733,EALC,26201,Medicine and Culture in Modern East Asia.
+321,1247,MATH,25500,Basic Algebra II.
+322,674,CHIN,20603,Fifth-Year Modern Chinese III.
+323,1802,REES,29006,The Brighter Side of the Balkans: Humor & Satire in Lit & Film.
+324,2170,BIOS,23232,Ecology and Evolution in the Southwest.
+325,239,CHEM,20100,Inorganic Chemistry I.
+326,29,ANTH,22130,Anthropology of the Machine.
+327,2101,BIOS,13111,Natural History of North American Deserts.
+328,1259,MATH,27400,Introduction to Differentiable Manifolds and Integration on Manifolds.
+329,667,CHIN,20502,Fourth-Year Modern Chinese II.
+330,2036,TAPS,29200,Advanced Study: Dance.
+331,358,HIPS,17300,"Science, Culture, and Society in Western Civilization I."
+332,2182,BIOS,23286,An Introduction to Population Genetics.
+333,184,BPRO,23000,Cosmos and Conscience: Looking for Ourselves Elsewhere.
+334,2249,BIOS,29327,Topics in Clinical Research.
+335,12,ANTH,21217,The Luo of Kenya.
+336,934,HIST,18301,Colonizations I.
+337,98,ANTH,29105,Pollen Analysis.
+338,919,HIST,15702,"Semitic Languages, Cultures, and Civilizations I."
+339,1828,SOSC,22000,Islamic Thought and Literature I.
+340,412,CLCV,21915,The Present Past in Greece since 1769.
+341,440,GREK,10100,Introduction to Attic Greek I.
+342,1784,RUSS,21302,Advanced Russian through Media I.
+343,296,GEOG,26100,Roots of the Modern American City.
+344,523,CMLT,20600,History and Theory of Drama II.
+345,2079,ARTV,29900,Senior Project.
+346,76,ANTH,26711,Ancient Landscapes II.
+347,1272,ARTH,22550,Histories of Cairo.
+348,22,ANTH,21420,Ethnographic Methods.
+349,2024,TAPS,28444,Visual Language: On Images.
+350,1158,LLSO,26804,"Insurgency, Terrorism, and Civil War."
+351,1014,HIPS,20700,Elementary Logic.
+352,2135,BIOS,20235,Biological Systems.
+353,2177,BIOS,23258,Molecular Evolution I: Fundamentals and Principles.
+354,82,ANTH,27210,The Politics and Psychology of Language.
+355,749,CHDV,20209,Adolescent Development.
+356,368,HIST,13003,History of European Civilization III.
+357,192,BPRO,24100,Science and Religion.
+358,624,CMSC,22610,Implementation of Computer Languages I.
+359,1381,ARAB,20390,Arabic in Social Context.
+360,859,GEOS,29001,Field Course in Geology.
+361,2318,PHYS,23700,Nuclei and Elementary Particles.
+362,1612,RLST,22501,Foundations of Chinese Buddhism.
+363,1133,LLSO,24200,Legal Reasoning.
+364,432,CLCV,25900,Ancient Empires III: The Egyptian Empire of the New Kingdom.
+365,857,GEOS,28100,Global Tectonics.
+366,2087,BIOS,17100,"Darwin's ""On the Origin of Species"" and ""The Descent of Man"""
+367,1443,NEHC,20710,Iranian Cinema.
+368,1215,SWAH,27000,Intermediate Swahili III.
+369,722,EALC,24500,Reading Qing Documents.
+370,1425,NEAA,10630,"Islamic Art and Architecture, 1100 to 1500."
+371,2052,ARTV,22502,Data and Algorithm in Art.
+372,157,ASTR,24100,The Physics of Stars and Stellar Systems.
+373,1127,LACS,24512,Intermediate Haitian Kreyol I.
+374,470,LATN,20100,Intermediate Latin I: Cicero.
+375,2012,TAPS,27100,Scene Painting.
+376,558,CRES,21201,Chicago Blues.
+377,271,CHEM,33200,Chemical Biology I.
+378,1994,TAPS,10600,Staging Desire.  100  Units.
+379,781,FNDL,23112,The Autobiography of Teresa of Avila.
+380,1525,PLSC,21401,Great Power Politics in the Nineteenth Century.
+381,297,HIST,27705,"Introduction to Black Chicago, 1893 to 2010."
+382,2160,BIOS,21507,Selected Topics in Molecular Engineering:  The Engineering and Biology of Tissue Repair.
+383,71,ANTH,25906,Shamans and Oral Poets of Central Asia.
+384,2245,BIOS,29321,The Problem of Evil: Disease?
+385,1034,HIPS,24800,Gender and History and Science Technology and Medicine.
+386,338,CMST,28500,History of International Cinema I: Silent Era.
+387,1000,HIST,29655,"History Colloquium: South Africa—Settlement, Segregation, and Apartheid."
+388,2075,ARTV,29202,"Objects, Things, and Other Things."
+389,566,CRES,11000,Introduction to the Civilizations of East Asia III.
+390,11,ANTH,21201,Chicago Blues.
+391,1411,HEBR,20002,Phoenician Inscriptions.
+392,1404,HEBR,10101,Elementary Classical Hebrew I.
+393,1134,LLSO,20601,"American Revolution, 1763 to 1789."
+394,899,GLST,24101,Paperwork.
+395,1096,HMRT,20300,Human Rights III: Contemporary Issues in Human Rights.
+396,575,CRES,21903,Introducción a las literaturas hispánicas: textos hispanoamericanos desde la colonia a la independencia.
+397,559,CRES,22150,Contemporary African American Politics.
+398,1282,HIST,21701,"Byzantine Empire, 330-610."
+399,571,CRES,27900,Asian Wars of the Twentieth Century.
+400,2031,TAPS,28700,Advanced Study: Playwriting.
+401,1463,SUMR,10102,Elementary Sumerian II.
+402,851,GEOS,25400,Introduction to Numerical Techniques for the Geophysical Sciences.
+403,110,ARTH,15709,20th Century Western Architecture.
+404,1721,SPAN,21310,Golden Age Poetry. Theory and Practice of Lyric Reading.
+405,1435,NEHC,10101,Introduction to the Middle East.
+406,129,ARTH,22611,The Politics of Luxury in the Middle Ages.
+407,2303,PHYS,14300,"Honors Waves, Optics, and Heat."
+408,2089,BIOS,11119,The Biology of Gender.
+409,2269,ENSC,24300,Roles of Animals in Ecosystems – Marine Biological Laboratory.
+410,2068,ARTV,26000,Introduction to Stage Design.
+411,278,CHEM,36500,Chemical Dynamics.
+412,2123,BIOS,20173,Perspectives of Human Physiology.
+413,1975,STAT,24300,Numerical Linear Algebra.
+414,1756,POLI,10103,First-Year Polish I.
+415,892,YDDH,20100,Intermediate Yiddish I.
+416,1555,PLSC,28300,Seminar on Realism.
+417,67,ANTH,25325,History and Culture of Baseball.
+418,1344,MUSI,25100,Analysis of Music of the Classical Period.
+419,472,LATN,20300,Intermediate Latin III: Seneca.
+420,2102,BIOS,13112,Natural History of North American Deserts: Field School.
+421,363,HIPS,17503,"Science, Culture, and Society in Western Civilization III: History of Medicine 2."
+422,577,CRES,27101,"Introduction to Brazilian Culture: Essay, Fiction, Cinema, and Music."
+423,1955,TLGU,20300,Second-Year Telugu III.
+424,1172,ASLG,10100,American Sign Language I.
+425,1271,ARTH,17612,The Art of Michelangelo.
+426,765,FNDL,26047,Pushkin and Gogol.
+427,903,GLST,29800,BA Thesis Seminar I.
+428,307,CMST,14400,Film and the Moving Image.
+429,221,BPRO,28100,What Is Enlightenment?
+430,1365,AKKD,10102,Elementary Akkadian II.
+431,496,CHDV,20440,"Inequality, Health, and The Life Course."
+432,1329,MUSI,22900,Contemporary Opera.
+433,1001,HIST,29656,"History Colloquium: Urban Histories—Experiencing, Using, and Representing the City."
+434,1052,HIPS,28601,Environment and the Body.
+435,49,ANTH,24001,Colonizations I.
+436,1809,SOSC,11100,"Power, Identity, and Resistance I."
+437,1644,CATA,29700,Readings in Special Topics.
+438,2083,BIOS,10500,Metabolism and Exercise.
+439,265,CHEM,32300,Strategies and Tactics of Organic Synthesis.
+440,1926,SALC,20702,Colonizations III.
+441,183,BPRO,22610,Medical Ethics: Who Decides and on What Basis?
+442,1586,PSYC,25101,The Psychology of Decision Making.
+443,2047,ARTV,22000,Introduction to Painting I.
+444,556,CRES,22205,Slavery and Unfree Labor.
+445,1415,HEBR,20106,Intermediate Classical Hebrew III.
+446,1792,REES,23706,The Soviet Union.
+447,614,CMSC,15200,Introduction to Computer Science II.
+448,522,CMLT,20500,History and Theory of Drama I.
+449,572,CRES,16101,Introduction to Latin American Civilization I.
+450,1737,BCSN,10203,First-Year Bosnian/Croatian/Serbian II.
+451,273,CHEM,33400,High-Throughput Methods in Chemistry.
+452,1142,LLSO,25606,Lucretius and Marx.
+453,1484,PHIL,20506,Philosophy of History: Narrative and Explanation.
+454,2041,ARTV,10200,Visual Language: On Objects.
+455,643,CMSC,27200,Theory of Algorithms.
+456,1053,HIPS,28801,Environmental Law.
+457,1841,SOSC,26100,Introduction to Latin American Civilization I.
+458,2072,ARTV,27200,Painting.
+459,1175,ASLG,10400,Intermediate American Sign Language I.
+460,941,HIST,20303,Archaic Greece.
+461,526,CMLT,21702,"Nowhere Lands: Utopia, Dystopia, and Afterlife of Empire."
+462,457,GREK,22500,Greek Historians: Herodotus.
+463,335,CMST,27820,"Aesthetics of Media: Image, Music, Text."
+464,392,NEHC,20012,Ancient Empires II: The Ottoman Empire.
+465,274,CHEM,36100,Wave Mechanics and Spectroscopy.
+466,1813,SOSC,12200,"Self, Culture, and Society II."
+467,1682,ITAL,20100,"Language, History, and Culture I."
+468,53,ANTH,24102,Introduction to the Civilizations of South Asia II.
+469,896,YDDH,29800,Reading Yiddish for Research.
+470,2224,BIOS,27710,Ecology – Marine Biological Laboratory.
+471,1754,POLI,10200,First-Year Polish II.
+472,564,CRES,10800,Introduction to the Civilizations of East Asia I.
+473,1679,ITAL,10200,Beginning Elementary Italian II.
+474,2097,BIOS,12117,The 3.5 Billion Year History of the Human Body.
+475,1494,PHIL,21620,The Problem of Evil.
+476,1640,CATA,21100,"Català avançat: Llengua, societat i cultura."
+477,827,GEOS,13200,Earth History.
+478,654,CHIN,10100,Elementary Modern Chinese I.
+479,336,CMST,28006,Minimalist Experiment in Film and Video.
+480,1054,HIPS,29613,Tutorial: Francis Bacon's Science and the Uses of Nature.
+481,1801,REES,28002,Czech New Wave Cinema.
+482,1997,TAPS,18600,Introduction to Puppetry.
+483,1558,PLSC,28801,Introduction to American Politics.
+484,852,GEOS,26300,Invertebrate Paleobiology and Evolution.
+485,1318,MENG,29700,Undergraduate Research for Molecular Engineering.
+486,875,GRMN,24116,Acrobatics of Reading: Kafka's Short Prose.
+487,60,ANTH,24800,Uncanny Modernities.
+488,124,ARTH,18000,Photography and Film.
+489,1433,NEAA,20523,Islamic Archaeology of Iraq and Iran.
+490,774,FNDL,24711,"Lincoln: Slavery, War, and the Constitution."
+491,2149,BIOS,21328,Biophysics of Biomolecules.
+492,1214,SWAH,26900,Intermediate Swahili II.
+493,1613,RLST,23605,"Aquinas on God, Being, and Human Nature."
+494,800,GNSE,23104,"Gender, Sexuality, and Islamic Traditions."
+495,2044,ARTV,21001,Figure Drawing: Trans/Figuration.
+496,200,BPRO,24700,From Neo-Liberalism to Neo-Imperialism.
+497,1161,LLSO,27307,"Drugs, Guns, and Money: The Politics of Criminal Conflict."
+498,1012,HIPS,20300,Scientific/Technological Change.
+499,886,NORW,10400,Intermediate Norwegian I: Introduction to Literature.
+500,1874,SOCI,20242,"States, Markets, and Bodies."
+501,215,BPRO,26700,"Mythical History, Paradigmatic Figures: Caesar, Augustus, Charlemagne, Napoleon."
+502,1373,ARAB,10102,Elementary Arabic II.
+503,1279,FNDL,26106,The Medieval Persian Romance: Gorgani's Vis and Ramin.
+504,2042,ARTV,10300,Visual Language: On Time and Space.
+505,1445,NEHC,20832,Late Ottoman History 1.
+506,2261,ENSC,21100,"Energy: Science, Technology, and Human Usage."
+507,1872,SOCI,20233,Race in Contemporary American Society.
+508,18,ANTH,21305,Explorations in Oral Narrative (The  Folktale)
+509,1582,PSYC,23860,Beyond Good and Evil: The Psychology of Morality.
+510,1595,PSYC,29700,Undergraduate Research in Psychology.
+511,796,GNSE,22904,Theories of Sexual Violence in American Culture.
+512,748,SOSC,25502,Human Development and Learning.
+513,1493,PHIL,21600,Introduction to Political Philosophy.
+514,65,ANTH,25305,Anthropology of Food and Cuisine.
+515,163,PHSC,12610,Black Holes.
+516,1382,ARAB,20588,Media Arabic.
+517,451,GREK,21300,Tragedy.
+518,125,ARTH,18305,New Art in Chicago Museums and Other Spaces.
+519,807,GEOG,20100,Cultural Geography.
+520,2002,TAPS,23000,Introduction to Directing.
+521,1968,STAT,20000,Elementary Statistics.
+522,2234,BIOS,02280,Drinking Alcohol: Social Problem or Normal Cultural Practice?
+523,2297,PHYS,12300,General Physics III.
+524,1454,NELG,20901,Advanced Seminar: Comparative Semitic Linguistics.
+525,2290,PHSC,13500,Chemistry and the Atmosphere.
+526,2169,BIOS,23100,Dinosaur Science.
+527,1209,MOGK,20300,Intermediate Modern Greek III.
+528,2233,BIOS,29812,Global Health Sciences III: Topics in Global Health.
+529,775,FNDL,25105,Readings in Ibn Tufayl’s Hayy b. Yaqzan.
+530,484,CCTS,21000,Medical Sociology.
+531,143,ARTH,27201,Visual and Material Culture of Modern Shanghai.
+532,258,CHEM,30400,Organometallic Chemistry.
+533,471,LATN,20200,Intermediate Latin II: Aeneid.
+534,1833,SOSC,23700,Introduction to the Civilizations of East Asia III.
+535,1859,SOCI,20116,Global-Local Politics.
+536,2223,BIOS,26120,An Introduction to Bioinformatics and Proteomics.
+537,768,FNDL,21403,Shakespeare I: Histories and Comedies.
+538,2143,BIOS,21229,Genome Informatics: How Cells Reorganize Genomes.
+539,602,BIOS,26211,Mathematical Methods for Biological Sciences II.
+540,921,HIST,15704,"Semitic Languages, Cultures, and Civilizations III."
+541,798,GNSE,23100,Foucault and The History of Sexuality.
+542,311,CMST,23202,Rome in Film and Literature.
+543,1589,PSYC,25700,The Psychology of Negotiation.
+544,83,ANTH,27300,Language Voice and Gender.
+545,2241,BIOS,29294,Introduction to Global Health.
+546,1447,NEHC,26016,The Medieval Persian Romance: Gorgani's Vis and Ramin.
+547,888,NORW,29700,Reading and Research Course in Norwegian.
+548,1963,URDU,10200,First-Year Urdu II.
+549,1912,PALI,10200,First-Year Pali II.
+550,1901,MALA,10300,First-Year Malayalam III.
+551,1577,PSYC,22750,Developmental Psychopathology.
+552,2141,BIOS,21208,Fundamentals of Molecular Biology.
+553,721,EALC,24340,The Merchant in Chinese Culture.
+554,908,HIST,12700,Music in Western Civilization I: To 1750.
+555,249,CHEM,26100,Quantum Mechanics.
+556,385,NEHC,20001,Ancient Near Eastern History and Society I: Egypt.
+557,607,CMSC,11000,Multimedia Programming as an Interdisciplinary Art I.
+558,1440,NEHC,20504,Introduction to the Hebrew Bible.
+559,135,ARTH,25202,Visual Encounters in the Global Renaissance.
+560,88,ANTH,28010,Introduction to Biological Anthropology.
+561,300,PBPL,28501,Process and Policy in State and City Government.
+562,473,LATN,21100,Roman Elegy.
+563,438,CLCV,29700,Reading Course.
+564,1743,BCSN,20203,Second-Year Bosnian/Croatian/Serbian II.
+565,885,NORW,10300,First-Year Norwegian III.
+566,423,CLCV,24508,Economy and Society in Ancient Greece and Rome.
+567,1307,MENG,26030,Introduction to Engineering Analysis.
+568,2070,ARTV,26500,History of International Cinema I: Silent Era.
+569,1218,MATH,13100,Elementary Functions and Calculus I.
+570,1027,HIPS,23500,Comparative Primate Morphology.
+571,676,CHIN,20900,Elementary Literary Chinese II.
+572,178,BPRO,22200,"Boundaries, Modules, and Levels."
+573,2020,TAPS,28401,History and Theory of Drama II.
+574,2244,BIOS,29318,Principles of Epidemiology.
+575,86,ANTH,27605,"Language, Culture, and Thought."
+576,986,HIST,27900,Asian Wars of the Twentieth Century.
+577,1449,NEHC,29500,Introduction to the History and Culture of Armenia.
+578,1456,PERS,10102,Elementary Persian II.
+579,1656,FREN,21503,Approches à l’analyse littéraire.
+580,1139,LLSO,23915,Plato's Republic.
+581,815,GEOG,26800,Geography Issues in Housing and Community Development.
+582,216,BPRO,26750,Anxiety.
+583,1780,RUSS,20902,Third-Year Russian through Culture III.
+584,1250,MATH,25800,Honors Basic Algebra II.
+585,685,JAPN,20100,Intermediate Modern Japanese I.
+586,2199,BIOS,24239,Cellular Mechanisms of Learning.
+587,2299,PHYS,13200,Electricity and Magnetism.
+588,2074,ARTV,28704,Reading Madness.
+589,7,ANTH,20702,Introduction to African Civilization II.
+590,1820,SOSC,14300,Mind III.
+591,177,BPRO,21500,What Is Civic Knowledge?
+592,1987,STAT,28000,Optimization.
+593,692,JAPN,20600,Fourth-Year Modern Japanese II.
+594,937,HIST,18600,United States Labor History.
+595,1925,SALC,20510,Indian Art Cinema.
+596,1324,MUSI,15100,Harmony and Voice Leading.
+597,1741,BCSN,20103,Second-Year Bosnian/Croatian/Serbian I.
+598,2111,BIOS,14112,Workings of the Human Brain:  From Brain to Behavior.
+599,2066,ARTV,24550,Shopcraft: Methods and Materials.
+600,1791,REES,23141,Avant-Garde in East Central Europe.
+601,944,HIST,21006,The Present Past in Greece since 1769.
+602,2312,PHYS,22500,Intermediate Electricity and Magnetism I.
+603,1526,PLSC,21410,"Advanced Theories of Sex/Gender: Ideology, Culture, and Sexuality."
+604,340,CMST,28601,"History of International Film, Part III: 1960 to Present."
+605,170,PHYS,29200,Bachelor's Thesis.
+606,327,CMST,26810,Agnes Varda.
+607,825,GEOG,29800,Senior Seminar.
+608,2105,BIOS,13125,Ecology and the Environment.
+609,384,MUSI,12200,Music in Western Civilization II: 1750 to the Present.
+610,942,HIST,20403,Greek Comedy: Aristophanes.
+611,635,CMSC,23700,Introduction to Computer Graphics.
+612,1111,HMRT,28310,Vulnerability and Human Rights.
+613,561,CRES,25405,Child Poverty and Chicago Schools.
+614,411,CLCV,21812,Greek Art and Archaeology I: From the Bronze Age to the Persian Wars.
+615,376,HIST,14000,Introduction to Russian Civilization II.
+616,1008,HIST,29700,Readings in History.
+617,89,ANTH,28100,Evolution of the Hominoidea.
+618,185,BPRO,23220,The Politics and Psychology of Language.
+619,1666,FREN,26410,What Is a Novel?
+620,653,CMSC,29900,Bachelor's Thesis.
+621,1657,FREN,21704,Introduction à la littérature française du XXe siècle.
+622,716,EALC,23001,Censorship in East Asia:  The Case of Colonial Korea.
+623,1742,BCSN,20200,Second-Year Bosnian/Croatian/Serbian II.
+624,353,EALC,10900,Introduction to the Civilizations of East Asia II.
+625,435,CLCV,27506,Archaic Greece.
+626,906,HIST,10900,Introduction to the Civilizations of South Asia II.
+627,1174,ASLG,10300,American Sign Language III.
+628,1674,SOSC,27601,Civilisation Européenne II.
+629,1442,NEHC,20568,Balkan Folklore.
+630,1914,PALI,20100,Second-Year Pali I.
+631,38,ANTH,22720,Paperwork.
+632,373,HIST,13600,America in World Civilization II.
+633,1444,NEHC,20766,Shamans and Oral Poets of Central Asia.
+634,1363,MUSI,29900,Senior Essay or Composition.
+635,543,CMLT,27402,Contemporary Chinese Writers and the Literary Field.
+636,1503,PHIL,24800,Foucault and The History of Sexuality.
+637,689,JAPN,20402,Advanced Modern Japanese II.
+638,513,CHDV,27902,Beginning Modern Spoken Yucatec Maya II.
+639,2054,ARTV,23804,Experimental Animation.
+640,1957,TBTN,10200,First-Year Tibetan II.
+641,281,CHEM,37100,Advanced Spectroscopies.
+642,1632,RLST,28320,Introduction to the Study of Iconography.
+643,2129,BIOS,20190,Principles of Developmental Biology.
+644,1156,LLSO,26500,"History of Mexico, 1876 to Present."
+645,1345,MUSI,25200,Analysis of Nineteenth-Century Music.
+646,476,LATN,21700,Post-Virgilian Epic.
+647,1920,SANS,20100,Second-Year Sanskrit I.
+648,1770,POLI,24300,Polish Through Literary Readings III.
+649,517,CHDV,29700,Undergraduate Reading and Research.
+650,299,PBPL,25405,Child Poverty and Chicago Schools.
+651,1764,POLI,20303,Second-Year Polish III.
+652,348,CMST,29900,BA Research Paper.
+653,1521,PLSC,21006,Political Economy of Inequality.
+654,1758,POLI,10303,First-Year Polish III.
+655,578,CRES,27303,Topics in US-Mexico Borderlands History.
+656,1630,RLST,28011,Religions of the African Diaspora.
+657,1,ANTH,20002,"Discovering Anthropology: Culture, Technology, Mediation."
+658,1207,MOGK,20100,Intermediate Modern Greek I.
+659,268,CHEM,32900,Polymer Chemistry.
+660,1875,SOCI,20243,Political Theory I.
+661,1237,MATH,20700,Honors Analysis in Rn I.
+662,119,ARTH,17507,Sculpture: From Literal Object to Artificial Life.
+663,1781,RUSS,21002,Fourth-Year Russian through Short Story I.
+664,914,HIST,15200,Introduction to the Civilizations of East Asia II.
+665,585,CRES,34501,Anthropology of Museums I.
+666,1885,SOCI,29998,Sociology BA Thesis Seminar.
+667,1022,HIPS,22300,Philosophy of Social Science.
+668,1222,MATH,15200,Calculus II.
+669,45,ANTH,23620,Medicine and Anthropology.
+670,1180,BASQ,12200,Elementary Basque III.
+671,1031,HIPS,24000,Evolution of the Hominoidea.
+672,562,CRES,27502,Africans in the Early Americas.
+673,1896,HIND,20100,Second-Year Hindi I.
+674,305,CMST,10100,Introduction to Film Analysis.
+675,1956,TBTN,10100,First-Year Tibetan I.
+676,369,HIST,13100,History of Western Civilization I.
+677,2289,PHSC,13400,Global Warming: Understanding the Forecast.
+678,1695,PORT,10100,Beginning Elementary Portuguese I.
+679,1788,RUSS,25200,Introduction to Russian Civilization II.
+680,647,CMSC,27700,Mathematical Logic I.
+681,586,CRES,34502,Anthropology of Museums II.
+682,1806,REES,29018,Imaginary Worlds: The Fantastic and Magic Realism in Russia and Southeastern Europe.
+683,663,CHIN,20401,Advanced Modern Chinese I.
+684,446,GREK,20100,Intermediate Greek I: Plato.
+685,1907,MARA,10300,First-Year Marathi III.
+686,150,ARTH,29700,Reading Course.
+687,1716,SPAN,20400,Composición y conversación avanzada I.
+688,158,ASTR,24200,The Physics of Galaxies and the Universe.
+689,164,PHSC,12620,The Big Bang.
+690,1883,SOCI,28070,Gender and Development.
+691,839,GEOS,22060,What Makes a Planet Habitable?
+692,1984,STAT,27400,Nonparametric Inference.
+693,2279,PHSC,10800,Earth as a Planet:  Exploring Our Place in the Universe.
+694,1531,PLSC,22510,Law and Society.
+695,167,PHSC,12720,Exoplanets.
+696,1978,STAT,24410,Statistical Theory and Methods Ia.
+697,2188,BIOS,23409,The Ecology and Evolution of Infectious Diseases.
+698,166,PHSC,12710,Galaxies.
+699,547,CMLT,28815,Literature as Trial.
+700,2017,TAPS,28000,Scenic Design.
+701,152,ARTH,29900,Preparation for the Senior Paper.
+702,1384,ARAM,10401,Elementary Syriac I.
+703,1310,MENG,26201,Thermodynamics and Statistical Mechanics I.
+704,1400,EGPT,20110,Introduction to Old Egyptian.
+705,1719,SPAN,20602,Discurso académico para hablantes nativos.
+706,1854,SOCI,20103,Social Stratification.
+707,590,CRES,20207,"Race, Ethnicity, and Human Development."
+708,1827,SOSC,21200,Music in Western Civilization II: 1750 to the Present.
+709,1406,HEBR,10103,Elementary Classical Hebrew III.
+710,548,CMLT,28900,Health Care and the Limits of State Action.
+711,631,CMSC,23310,Advanced Distributed Systems.
+712,420,CLCV,24113,The Archaeology of Death in Ancient Rome.
+713,1152,LLSO,25902,Contemporary African American Politics.
+714,1556,PLSC,28615,Politics and Human Nature.
+715,1416,HEBR,20501,Intermediate Modern Hebrew I.
+716,1539,PLSC,25402,Fragmented Politics and Global Markets.
+717,714,EALC,22028,"“Otherworldly Literature”: Ghosts, Afterlives, and the Superna."
+718,2181,BIOS,23281,Evolutionary Aspects of Gene Regulation.
+719,2278,PHSC,10100,Origin and Evolution of the Solar System and the Earth.
+720,2220,BIOS,25310,Pharmacogenomics:  Discovery and Implementation.
+721,141,ARTH,26600,Early 20th-Century Urban Visions.
+722,1421,KAZK,10103,Elementary Kazakh III.
+723,1144,LLSO,27725,Machiavelli's Florentine Histories.
+724,1262,MATH,27800,Mathematical Logic II.
+725,930,HIST,17502,"Science, Culture, and Society in Western Civilization IV: Modern Science."
+726,1036,HIPS,25107,Sciences of Mind and the Moving Image.
+727,1485,PHIL,21000,Introduction to Ethics.
+728,528,CMLT,22400,History of International Cinema I: Silent Era.
+729,623,CMSC,22311,Functional Systems in Haskell.
+730,612,CMSC,12300,Computer Science with Applications III.
+731,431,CLCV,25800,Ancient Empires II: The Ottoman Empire.
+732,1738,BCSN,10300,First-Year Bosnian/Croatian/Serbian III.
+733,1856,SOCI,20106,Political Sociology.
+734,448,GREK,20300,Intermediate Greek III: Homer.
+735,587,CRES,10200,Introduction to World Music.
+736,2069,ARTV,26202,"Site, Strategies, Preoccupations, and Something Like Art."
+737,1179,BASQ,12100,Elementary Basque II.
+738,894,YDDH,25116,Yiddish Literature Between the World Wars.
+739,2056,ARTV,23900,Drawing.
+740,20,ANTH,21401,Logic and Practice of Archaeology.
+741,1480,PHIL,20120,"Wittgenstein’s ""Philosophical Investigations"""
+742,877,GRMN,24416,Biocentrism: The Concept of Life in German Literature and Art around 1900.
+743,718,EALC,24305,"Autobiographical Writings, Gender, and Modern Korea."
+744,2082,BIOS,10451,Pharmacological Perspectives II.
+745,121,ARTH,17611,Envisioning the Colonial Metropolis.
+746,1906,MARA,10200,First-Year Marathi II.
+747,1753,POLI,10100,First-Year Polish I.
+748,830,GEOS,13900,Biological Evolution.
+749,2183,BIOS,23289,Marine Ecology.
+750,740,EALC,27420,Divinity and Femininity: Women's Religious Lives in Pre-modern China.
+751,257,CHEM,30200,Synthesis and Physical Methods in Inorganic Chemistry.
+752,339,CMST,28600,History of International Cinema II: Sound Era to 1960.
+753,794,GNSE,21400,Advanced Theories of Sex/Gender.
+754,876,GRMN,24216,"Writing the Jewish Body: Health, Disease, Literature."
+755,2184,BIOS,23299,Plant Development and Molecular Genetics.
+756,261,CHEM,30900,Bioinorganic Chemistry.
+757,1982,STAT,26100,Time Dependent Data.
+758,750,ECON,26700,Economics of Education.
+759,1723,SPAN,21703,Introducción a las literaturas hispánicas: textos españoles clásicos.
+760,579,CRES,27504,"Reading the Border: Gender, Texts, and Performance."
+761,2100,BIOS,13107,Environmental Ecology.
+762,2243,BIOS,29313,Medical Ethics: Who Decides and on What Basis?
+763,429,CLCV,25606,Lucretius and Marx.
+764,1082,HUMA,17000,Language and the Human I.
+765,1691,ITAL,26500,Renaissance Demonology.
+766,1628,RLST,27604,Religion and Gender.
+767,783,FNDL,25401,Confucius and Laozi.
+768,1005,HIST,29660,History Colloquium: The American South since 1865.
+769,1281,HCHR,30200,History Christian Thought II.
+770,1724,SPAN,21803,Introducción a las literaturas hispánicas: textos españoles contemporáneos.
+771,811,GEOG,25300,Seminar: Problems in the Human Geography of the Middle East.
+772,1673,SOSC,27501,Civilisation Européenne I.
+773,50,ANTH,24002,Colonizations II.
+774,77,ANTH,26715,The Rise of the State in the Near East.
+775,848,GEOS,24240,Geophysical Fluid Dynamics: Rotation and Stratification.
+776,1876,SOCI,20244,Political Theory II.
+777,1966,URDU,20200,Second-Year Urdu II.
+778,1397,EGPT,10202,Coptic Texts.
+779,1837,SOSC,24001,Colonizations I.
+780,5,ANTH,20535,The Social Life of Clean Energy.
+781,63,ANTH,25200,Approaches to Gender in Anthropology.
+782,2255,BIOS,00292,Interdisciplinary Research Seminar III.
+783,1268,ARTH,14215,Roman Art II: Late Antique and Early Christian Art and Architecture.
+784,1830,SOSC,23100,Introduction to the Civilizations of South Asia II.
+785,1277,FNDL,21103,"Marsilio Ficino's ""On Love"""
+786,1232,MATH,20000,Mathematical Methods for Physical Sciences I.
+787,858,GEOS,28300,Principles of Stratigraphy.
+788,1488,PHIL,21301,Moral Theory.
+789,997,HIST,29514,Rise of the Modern Corporation.
+790,1104,HMRT,24501,Human Rights in Mexico.
+791,605,CMSC,10500,Fundamentals of Computer Programming I.
+792,1086,HUMA,02980,Practicum.
+793,1759,POLI,20100,Second-Year Polish I.
+794,1649,FREN,10300,Beginning Elementary French III.
+795,560,CRES,24601,Martin and Malcolm: Life and Belief.
+796,1853,SOCI,20102,Social Change.
+797,69,ANTH,25500,Cultural Politics of Contemporary India.
+798,724,EALC,24610,A History of Japanese Visual Culture.
+799,493,CHDV,20100,Human Development Research Designs in Social Sciences.
+800,2165,BIOS,22249,Principles of Toxicology.
+801,720,EALC,24330,Short Stories from a Late Ming Collection.
+802,1658,FREN,21810,Introduction à la littérature française du XVIIIe siècle.
+803,2271,ENSC,24500,Environmental Microbiology.
+804,642,CMSC,27100,Discrete Mathematics.
+805,1194,LING,24960,Creole Genesis and Genetic Linguistics.
+806,1981,STAT,25300,Introduction to Probability Models.
+807,730,EALC,25600,Gender and Modernity in Colonial Korea.
+808,1025,HIPS,22700,Philosophical Problems in the Biological Sciences.
+809,2240,BIOS,29280,Developmental Psychopathology.
+810,1138,LLSO,23501,History of Information.
+811,936,HIST,18303,Colonizations III.
+812,2150,BIOS,21349,Protein Structure and Functions in Medicine.
+813,2004,TAPS,23600,Improv and Sketch.
+814,41,ANTH,23101,Introduction to Latin American Civilization I.
+815,563,CRES,27705,"Introduction to Black Chicago, 1893 to 2010."
+816,698,KORE,10300,Introduction to the Korean Language III.
+817,1544,PLSC,26100,To Hell with the Enlightenment.
+818,351,CRES,24003,Colonizations III.
+819,477,LATN,21800,Roman Historian.
+820,1390,ARME,20101,Intermediate Modern Armenian I.
+821,1774,RUSS,10300,First-Year Russian III.
+822,2048,ARTV,22002,Introduction to Painting II.
+823,1557,PLSC,28701,Introduction to Political Theory.
+824,927,HIST,17400,"Science, Culture, and Society in Western Civilization II."
+825,1403,GEEZ,10103,Readings: Classical Ethiopic.
+826,1292,NEHC,20413,Medieval Jewish History III.
+827,1650,FREN,20100,"Language, History, and Culture I."
+828,1693,ITAL,29700,Readings in Special Topics.
+829,95,ANTH,28510,Anthropology of Space/Place/Landscape.
+830,1084,HUMA,17200,Language and the Human III.
+831,372,HIST,13500,America in World Civilization I.
+832,1308,MENG,26101,Transport Phenomena I: Forces and Flows.
+833,2126,BIOS,20187,Fundamentals of Genetics.
+834,66,ANTH,25310,Drinking Alcohol: Social Problem or Normal Cultural Practice?
+835,940,HIST,20005,Colonial African History.
+836,1062,HUMA,11100,Readings in World Literature II.
+837,1825,SOSC,20200,Survey Research Overview.
+838,2225,BIOS,27711,Biogeochemical Analysis in Terrestrial and Aquatic Ecosystems – Marine Biological Laboratory.
+839,54,ANTH,24315,"Culture, Mental Health, and Psychiatry."
+840,1309,MENG,26102,Transport Phenomena II.
+841,837,GEOS,22040,Formation of Planetary Systems in Our Galaxy: From Dust to Planetesimals.
+842,2014,TAPS,27550,Costume Design and Technology for the Stage.
+843,393,NEHC,20013,Ancient Empires III: The Egyptian Empire of the New Kingdom.
+844,1217,MATH,11300,Studies in Mathematics II.
+845,1860,SOCI,20118,Survey Research Overview.
+846,2033,TAPS,28900,Advanced Study: Costume Design.
+847,1814,SOSC,12300,"Self, Culture, and Society III."
+848,805,GNSE,50101,Law-Philosophy Workshop.
+849,1331,MUSI,23104,Jazz.
+850,802,GNSE,27702,Gender in the Balkans through Literature and Film.
+851,111,ARTH,15805,The Art of Native North America.
+852,1055,HIPS,29614,"Tutorial: Heuristics, Biases, and Ideology."
+853,487,CCTS,31300,Infectious Disease Epidemiology; Networks and Modeling.
+854,670,CHIN,20509,Readings in Literary Chinese II.
+855,2186,BIOS,23404,Reconstructing the Tree of Life: An Introduction to Phylogenetics.
+856,2108,BIOS,13131,Chicago's Natural History: Where Is it? What Is It? and There It Goes!
+857,1794,REES,25601,Russian Media Culture.
+858,196,BPRO,24300,Globalization and Neo-Liberalism.
+859,1004,HIST,29659,History Colloquium: History of Asians in America.
+860,1605,RLST,20408,The Bible and Archaeology.
+861,1489,PHIL,21400,Happiness.
+862,1418,HEBR,20503,Intermediate Modern Hebrew III.
+863,953,HIST,23216,"Mass Culture, Counterculture, & Avant-garde in Postwar Europe."
+864,1069,HUMA,12200,Greek Thought and Literature III.
+865,316,CMST,24107,Hindi Cinema: from Bombay to Bollywood.
+866,1636,RLST,29800,BA Paper Seminar.
+867,726,EALC,24626,"Japanese Cultures of the Cold War:  Literature, Film, Music."
+868,700,KORE,20200,Intermediate Korean II.
+869,1985,STAT,27725,Machine Learning.
+870,2214,BIOS,25258,Immunopathology.
+871,1709,SPAN,10100,Beginning Elementary Spanish I.
+872,2037,TAPS,29300,Advanced Study: General.
+873,963,HIST,24500,Reading Qing Documents.
+874,527,CMLT,21703,The Politics of Hybridity.
+875,394,NEHC,20416,"Semitic Languages, Cultures, and Civilizations I."
+876,2190,BIOS,23412,Morphology in Time and Space.
+877,1295,SLAV,22000,Old Church Slavonic.
+878,727,EALC,24708,Frontiers and Expansion in Modern China.
+879,1703,PORT,21500,Curso de Aperfeiçoamento.
+880,778,FNDL,27725,Machiavelli's Florentine Histories.
+881,1937,SALC,29300,"South Asian Aesthetics: Rasa to Rap, Kamasutra to Kant."
+882,651,CMSC,28501,Topics in Scientific Computing.
+883,1212,SWAH,25400,Swahili III.
+884,1129,LACS,24514,Intermediate Haitian Kreyol III.
+885,1697,PORT,10300,Beginning Elementary Portuguese III.
+886,1339,MUSI,23716,Music of the Latin American Outlaws.
+887,1891,BANG,20200,Second-Year Bangla (Bengali) II.
+888,1045,HIPS,25902,A History of Cell and Molecular Biology.
+889,243,CHEM,22200,Organic Chemistry III.
+890,0,ANTH,20001,Discovering Anthropology: Varieties of National Experience.
+891,599,BIOS,24232,Computational Approaches to Cognitive Neuroscience.
+892,1315,MENG,29500,Engineering Design.
+893,1260,MATH,27500,Basic Theory of Partial Differential Equations.
+894,491,CHDV,14510,Gender and Development.
+895,795,GNSE,21500,Darwinian Health.
+896,1529,PLSC,22201,Political Economy of Corruption.
+897,565,CRES,10900,Introduction to the Civilizations of East Asia II.
+898,1170,LLSO,28902,"Chicago Social Movements, 1954 to 2014."
+899,2005,TAPS,23700,Playwriting: Creating Natural Dialogue for the Stage.
+900,2136,BIOS,20236,Biological Dynamics.
+901,1648,FREN,10200,Beginning Elementary French II.
+902,1379,ARAB,20102,Intermediate Arabic II.
+903,1316,MENG,29501,Undergraduate Research Colloquium.
+904,620,CMSC,22100,Programming Languages.
+905,180,BPRO,22400,The Ugly American Comes Home.
+906,1261,MATH,27700,Mathematical Logic I.
+907,1303,MENG,24300,Selected Topics in Molecular Engineering:  The Engineering and Biology of Tissue Repair.
+908,149,ARTH,29600,Junior Seminar: Doing Art History.
+909,834,GEOS,21200,Physics of the Earth.
+910,970,HIST,25300,"American Revolution, 1763 to 1789."
+911,2320,PHYS,26000,Fluid Dynamics.
+912,1183,LING,20001,Introduction to Linguistics.
+913,2106,BIOS,13126,Tropical Ecology: Biodiversity and Human Impacts.
+914,2242,BIOS,29300,Biological Psychology.
+915,449,GREK,21100,Elegiac Poetry.
+916,831,GEOS,21000,Introduction to Mineralogy.
+917,1928,SALC,20900,Cultural Politics of Contemporary India.
+918,277,CHEM,36400,Advanced Statistical Mechanics.
+919,1936,SALC,28403,Painting in South Asia.
+920,1098,HMRT,20201,Human Rights II in Vienna: History and Theory.
+921,995,HIST,29314,"History of Skepticism, Pre-socratic Greece to Enlightenment."
+922,1205,MOGK,10200,Accelerated Elementary Modern Greek II.
+923,2180,BIOS,23266,Evolutionary Adaptation.
+924,1588,PSYC,25460,The Body in the Mind.
+925,1533,PLSC,22600,Introduction to Political Philosophy.
+926,1338,MUSI,23700,Music of South Asia.
+927,520,CMLT,20222,"Writing the Jewish Body: Health, Disease, Literature."
+928,1565,PLSC,29800,BA Colloquium.
+929,1822,SOSC,15200,Classics of Social and Political Thought II.
+930,1516,PLSC,20801,Machiavelli's Literary Works.
+931,1810,SOSC,11200,"Power, Identity, and Resistance II."
+932,424,CLCV,24515,Money and the Ancient Greek World.
+933,282,CHEM,37200,Statistical Mechanics of Polymers/Glasses.
+934,619,CMSC,22010,Digital Fabrication.
+935,2003,TAPS,23100,Advanced Directing.
+936,555,CRES,20702,Introduction to African Civilization II.
+937,1177,ASLG,10600,Intermediate American Sign Language III.
+938,1579,PSYC,23000,Cultural Psychology.
+939,787,FNDL,28202,Introduction to the New Testament:  Texts and Contexts.
+940,2167,BIOS,22260,Vertebrate Structure and Function.
+941,1389,ARME,10103,Elementary Modern Armenian III.
+942,1073,HUMA,13500,Introduction to the Humanities I.
+943,1419,KAZK,10101,Elementary Kazakh I.
+944,900,GLST,27702,About Nature: From Science to Sense.
+945,320,CMST,24611,Cities in Sinophone Cinemas.
+946,131,ARTH,23801,Soundscapes of the Early Modern City.
+947,980,HIST,26500,"History of Mexico, 1876 to Present."
+948,490,CHDV,11001,Problems Gen/Sex: Love and Borders: Theoretical and Ethnographic Perspectives.
+949,1667,FREN,26610,La Poésie lyrique du 19ème siècle.
+950,1181,BASQ,22000,Intermediate Basque.
+951,330,CMST,27240,Contemporary Film Theory I: Ideology and Critique.
+952,1519,PLSC,20916,Individualism and Its Liquidation.
+953,2001,TAPS,22800,Introduction to Performance Theory.
+954,1364,AKKD,10101,Elementary Akkadian I.
+955,2139,BIOS,21206,Human Evolution and Disease.
+956,648,CMSC,27800,Mathematical Logic II.
+957,1168,LLSO,28613,Politics and Human Nature.
+958,626,CMSC,22630,Advanced Implementation of Computer Languages.
+959,1680,ITAL,10300,Beginning Elementary Italian III.
+960,2085,BIOS,10602,Multiscale Modeling of Biological Systems I.
+961,679,CHIN,21200,Accelerated Modern Chinese for Bilingual Speakers II.
+962,529,CMLT,22500,History of International Cinema II: Sound Era to 1960.
+963,1280,FREN,26700,Jeanne d'Arc: historie et legende. Cours introductorie.
+964,2046,ARTV,21902,Color: Theory and Experience.
+965,2115,BIOS,15119,Immunology: Light and Tasty.
+966,1125,LACS,22502,Elementary Haitian Kreyol II.
+967,1779,RUSS,20802,Third-Year Russian through Culture II.
+968,2090,BIOS,11125,Life through a Genomic Lens.
+969,1230,MATH,19520,Mathematical Methods for Social Sciences.
+970,883,NORW,10100,First-Year Norwegian I.
+971,2142,BIOS,21216,Intro Statistical Genetics.
+972,2215,BIOS,25260,Host Pathogen Interactions.
+973,844,GEOS,23805,Stable Isotope Biogeochemistry.
+974,2000,TAPS,22100,Solo Performance.
+975,2062,ARTV,24301,Writing for Performance.
+976,715,EALC,22101,Music and the Everday in Modern Japan.
+977,977,HIST,26216,Slavery and Freedom in South America.
+978,1434,NEAA,29700,Reading and Research Course: Near Eastern Art and Archaeology.
+979,291,ENGL,25952,Reading the Suburbs.
+980,1219,MATH,13200,Elementary Functions and Calculus II.
+981,874,GRMN,21403,Philosophie.
+982,202,BPRO,24900,Biology and Sociology of AIDS.
+983,1039,HIPS,25208,Motion Pictures in the Human Sciences.
+984,1700,PORT,13200,Accelerated Portuguese for Speakers of Romance Languages II.
+985,383,MUSI,12100,Music in Western Civilization I: To 1750.
+986,1120,INST,29700,Reading and Research.
+987,731,EALC,25707,Art and Death in Pre-Modern China.
+988,1202,LING,29700,Reading and Research Course.
+989,712,EALC,19000,Early Modern Japanese History.
+990,32,ANTH,22530,Ethnographic Film.
+991,465,LATN,10200,Introduction to Classical Latin II.
+992,44,ANTH,23600,Medicine and Society in Twentieth-Century China.
+993,1017,HIPS,21100,Celebrity and Science in  Paleoanthropology.
+994,224,BPRO,29100,What Do the Genomes Teach Us about Evolution?
+995,1772,RUSS,10100,First-Year Russian I.
+996,732,EALC,25811,Foundations of Chinese Buddhism.
+997,2040,ARTV,10100,Visual Language: On Images.
+998,1730,SPAN,25215,Góngora y sor Juana: el Barroco y la poética de la oscuridad.
+999,583,CRES,27501,Urban Indians: Native Americans and the City.
+1000,1900,MALA,10200,First-Year Malayalam II.
+1001,2287,PHSC,12400,The Chemistry of Big Problems.
+1002,509,CHDV,25900,Developmental Psychology.
+1003,1902,MALA,20100,Second-Year Malayalam I.
+1004,2293,PHSC,18200,The Origin and Evolution of the Universe.
+1005,374,HIST,13700,America in World Civilization III.
+1006,861,GEOS,29005,Field Course in Environmental Science.
+1007,142,ARTH,26902,Prints and Privacy.
+1008,2208,BIOS,25206,Fundamentals of Bacterial Physiology.
+1009,842,GEOS,23400,Global Warming: Understanding the Forecast.
+1010,1499,PHIL,23205,Introduction to Phenomenology.
+1011,1283,HIST,21702,"Byzantine Empire, 610-1025."
+1012,1865,SOCI,20140,Qualitative Field Methods.
+1013,736,EALC,26510,The Chinese Classics.
+1014,610,CMSC,12100,Computer Science with Applications I.
+1015,1070,HUMA,12300,Human Being and Citizen I.
+1016,737,EALC,26650,China's Classic of Documents.
+1017,481,LATN,22300,Roman Oratory.
+1018,809,GEOG,22100,Changing America in the Twentieth Century.
+1019,2197,BIOS,24217,Conquest of Pain.
+1020,1112,HMRT,28602,Health Care and the Limits of State Action.
+1021,2302,PHYS,14200,Honors Electricity and Magnetism.
+1022,1683,ITAL,20200,"Language, History, and Culture II."
+1023,1514,PLSC,.  Co,mporary Egalitarianism.
+1024,289,ECON,28100,The Economics of Sports.
+1025,1675,SOSC,27701,Civilisation Européenne III.
+1026,406,CLCV,20700,Ancient Mediterranean World I.
+1027,967,HIST,24913,Victorian Science.
+1028,2125,BIOS,20186,Fundamentals of Cell and Molecular Biology.
+1029,2028,TAPS,28454,History of Chinese Theater.
+1030,1035,HIPS,24913,Victorian Science.
+1031,1934,SALC,27701,Mughal India: Tradition and Transition.
+1032,754,SOCI,20192,The Effects of Schooling.
+1033,1704,PORT,26900,Travels to Backlands of Brazil and Portuguese-speaking Africa.
+1034,680,CHIN,21300,Accelerated Modern Chinese for Bilingual Speakers III.
+1035,1041,HIPS,25408,The History of Suggestion.
+1036,1414,HEBR,20105,Intermediate Classical Hebrew II.
+1037,2092,BIOS,11140,Biotechnology for the 21st Century.
+1038,1107,HMRT,26150,Human Dignity.
+1039,2205,BIOS,25109,Topics in Reproduction and Cancer.
+1040,1580,PSYC,23220,The Politics and Psychology of Language.
+1041,103,ARTH,10100,Introduction to Art.
+1042,2270,ENSC,24400,Ecology and Conservation.
+1043,1607,RLST,20501,Islamic History and Society I: The Rise of Islam and the Caliphate.
+1044,530,CMLT,23301,Balkan Folklore.
+1045,396,NEHC,20418,"Semitic Languages, Cultures, and Civilizations III."
+1046,1705,PORT,27200,Introduction to Brazilian Culture.
+1047,460,GREK,25615,History of the Greek Language.
+1048,1220,MATH,13300,Elementary Functions and Calculus III.
+1049,1291,NEHC,20412,Medieval Jewish History II.
+1050,2008,TAPS,24878,Introduction au théâtre français.
+1051,2059,ARTV,24000,Introduction to Black and White Film Photography.
+1052,1617,RLST,24051,Moral Agency and Social Transformation.
+1053,2076,ARTV,29600,Junior Seminar.
+1054,1228,MATH,17500,Basic Number Theory.
+1055,2232,BIOS,28407,Genomics and Systems Biology.
+1056,1432,NEAA,20521,Archaeology of Coptic and Islamic Egypt.
+1057,1528,PLSC,22150,Contemporary African American Politics.
+1058,820,GEOG,29100,Undergraduate Tutorial.
+1059,259,CHEM,30500,Nanoscale Materials.
+1060,1761,POLI,20300,Second-Year Polish III.
+1061,554,CRES,20701,Introduction to African Civilization I.
+1062,214,BPRO,26600,Antonioni’s Films: Reality and Ambiguity.
+1063,1618,RLST,24601,Martin and Malcolm: Life and Belief.
+1064,1933,SALC,25305,Scribal Circulations: Art of Writing (Pre-modern to Present)
+1065,1465,TURK,10101,Elementary Turkish I.
+1066,2314,PHYS,22600,Electronics.
+1067,833,GEOS,21100,Introduction to Petrology.
+1068,2131,BIOS,20196,Ecology and Conservation.
+1069,1502,PHIL,24015,Modality.
+1070,1486,PHIL,21102,Opera as Idea and as Performance.
+1071,912,HIST,15002,Whales and Whaling in American History.
+1072,1576,PSYC,21950,"Language, Culture, and Thought."
+1073,461,GREK,26615,Lucian.
+1074,1298,MENG,21000,Molecularly Engineered Materials and Material Systems.
+1075,1952,TLGU,10300,First-Year Telugu III.
+1076,2282,PHSC,11100,Modern Physics I:  Modern Physics in the Everyday World.
+1077,989,HIST,28702,"Ludwig Wittgenstein's ""Philosophical Investigations"""
+1078,1852,SOCI,20101,Organizational Analysis.
+1079,819,GEOG,28800,History of Cartography.
+1080,1824,SOSC,02980,Practicum.
+1081,1587,PSYC,25120,Child Development and Public Policy.
+1082,298,HIST,29613,Colloquium: Hyde Park and Chicago's South Side as Historical Laboratory.
+1083,1114,HMRT,29120,Poverty Law and Policy Reform.
+1084,1458,PERS,20006,"Survey of Persian Poetry, 10th to 15th Century."
+1085,535,CMLT,25102,Problems Around Foucault.
+1086,415,CLCV,22700,History of Philosophy I: Ancient Philosophy.
+1087,1819,SOSC,14200,Mind II.
+1088,48,ANTH,23805,Nature/Culture.
+1089,1948,TAML,20200,Second-Year Tamil II.
+1090,1897,HIND,20200,Second-Year Hindi II.
+1091,1457,PERS,10103,Elementary Persian III.
+1092,843,GEOS,23800,Global Biogeochemical Cycles.
+1093,46,ANTH,23700,"Capitalism, Colonialism, and Nationalism in the Pacific."
+1094,2133,BIOS,20198,Biodiversity.
+1095,1977,STAT,24500,Statistical Theory and Methods II.
+1096,2185,BIOS,23365,Evolutionary and Genomic Medicine I.
+1097,1944,TAML,10100,First-Year Tamil I.
+1098,981,HIST,26602,Mughal India: Tradition and Transition.
+1099,2134,BIOS,20234,Molecular Biology of the Cell.
+1100,96,ANTH,28600,Apes and Human Evolution.
+1101,24,ANTH,21610,Linguistic Ethnographies.
+1102,567,CRES,11200,Introduction to the Civilizations of East Asia IV.
+1103,1665,FREN,26303,"Grace, Love, and Pleasure. Painting in Eighteenth Century France."
+1104,1575,PSYC,21450,Evolutionary Cognitive Psychology.
+1105,260,CHEM,30600,Chemistry of the Elements and Materials.
+1106,797,GNSE,22905,Gendering Privacy.
+1107,999,HIST,29632,History Colloquium: The CIA and American Democracy.
+1108,2010,TAPS,25500,Advanced Screenwriting.
+1109,172,BPRO,22800,Drinking Alcohol: Social Problem or Normal Cultural Practice?
+1110,73,ANTH,26020,Archaeology of Modernity.
+1111,1208,MOGK,20200,Intermediate Greek II.
+1112,191,BPRO,23900,Biological and Cultural Evolution.
+1113,1534,PLSC,22700,Happiness.
+1114,1407,HEBR,10501,Introductory Modern Hebrew I.
+1115,1832,SOSC,23600,Introduction to the Civilizations of East Asia II.
+1116,789,GNSE,11001,Problems Gen/Sex: Love and Borders: Theoretical and Ethnographic Perspectives.
+1117,1532,PLSC,22515,The Political Nature of the American Judicial System.
+1118,264,CHEM,32200,Organic Synthesis and Structure.
+1119,228,CHEM,00220,Collaborative Learning in Organic Chemistry I.
+1120,582,CRES,36500,"History of Mexico, 1876 to Present."
+1121,2285,PHSC,11400,Development of Life on Earth.
+1122,495,CHDV,20300,Biological Psychology.
+1123,100,ANTH,29700,Readings in Anthropology.
+1124,1559,PLSC,28900,Strategy.
+1125,2151,BIOS,21356,Vertebrate Development.
+1126,2120,BIOS,20170,Microbial and Human Cell Biology.
+1127,636,CMSC,23710,Scientific Visualization.
+1128,2173,BIOS,23248,Primate Behavior and Ecology.
+1129,840,GEOS,22200,Geochronology.
+1130,867,GRMN,13100,Reading German.
+1131,56,ANTH,24335,Intro to Medical Anthropology & Critical Studies of Global Hea.
+1132,524,CMLT,21101,Roman Elegy.
+1133,1862,SOCI,20122,Introduction to Population.
+1134,1426,NEAA,10631,"Islamic Art and Architecture, 1500–1900."
+1135,959,HIST,23706,The Soviet Union.
+1136,1735,BCSN,10103,First-Year Bosnian/Croatian/Serbian I.
+1137,1787,RUSS,25100,Introduction to Russian Civilization I.
+1138,2252,BIOS,00289,Interdisciplinary Research Seminar.
+1139,955,HIST,23306,"Europe, 1914 to Present."
+1140,1839,SOSC,24003,Colonizations III.
+1141,1321,MUSI,10300,Introduction to Music: Materials and Design.
+1142,2250,BIOS,00199,Undergraduate Research.
+1143,201,BPRO,24800,The Complex Problem of World Hunger.
+1144,1198,LING,27220,Professional Persuasions: The Rhetoric of Expertise in Modern Life.
+1145,880,GRMN,28815,Literature as Trial.
+1146,751,PSYC,20500,Developmental Psychology.
+1147,1288,ITAL,23502,"Boccaccio's ""Decameron"""
+1148,695,JAPN,21300,Intermediate Modern Japanese through Japanimation II.
+1149,2229,BIOS,27715,Roles of Animals in Ecosystems – Marine Biological Laboratory.
+1150,17,ANTH,21303,Making the Natural World: Foundations of Human Ecology.
+1151,1369,AANL,10103,Elementary Hittite III.
+1152,2277,ENSC,29800,Independent Undergraduate Research in Environmental Sciences – Marine Biological Laboratory.
+1153,454,GREK,21900,Greek Oratory.
+1154,262,CHEM,31100,Supramolecular Chemistry.
+1155,1461,PERS,20103,Intermediate Persian III.
+1156,1524,PLSC,21010,Democratic Representation.
+1157,1378,ARAB,20101,Intermediate Arabic I.
+1158,1492,PHIL,21580,Libertarianism.
+1159,1477,PHIL,.  Th,inguistic Turn in 20th Century Analytic Philosophy Pt II.
+1160,1099,HMRT,20301,Human Rights III in Vienna: Contemporary Issues in Human Rights.
+1161,341,CMST,28703,"Video Art: The Analog Years. Theory, Technology, Practice."
+1162,43,ANTH,23103,Introduction to Latin American Civilization III.
+1163,197,BPRO,24400,Concepts of the Self from Antiquity to the Present.
+1164,1119,INST,27703,Earthbound Metaphysics: Speculations on Earths and Heavens.
+1165,2322,PHYS,26500,Topics in General Relativity and Cosmology.
+1166,1614,RLST,23804,Consciousness and Critique: The Autobiographies of Dorothy Day and Malcolm X.
+1167,1466,TURK,10102,Elementary Turkish II.
+1168,1993,TAPS,10500,Staging Terror.
+1169,1927,SALC,20800,Music of South Asia.
+1170,1267,MATH,29700,Proseminar in Mathematics.
+1171,16,ANTH,21269,East Asia before Confucius.
+1172,475,LATN,21300,Vergil.
+1173,1317,MENG,29600,Practice of Research.
+1174,2196,BIOS,24209,Photons to Consciousness: Cellular and Integrative Brain Functions.
+1175,966,HIST,24609,A History of Japanese Visual Culture.
+1176,2128,BIOS,20189,Fundamentals of Developmental Biology.
+1177,1538,PLSC,24525,Hannah Arendt: On Revolution.
+1178,306,CMST,10300,Visual Language: On Time and Space.
+1179,2273,ENSC,28100,Quantitative Environmental Analyses – Marine Biological Laboratory.
+1180,1437,NEHC,20223,Narratives of Assimilation.
+1181,2189,BIOS,23410,"Complex Interactions: Coevolution, Parasites, Mutualists, and Cheaters."
+1182,665,CHIN,20403,Advanced Modern Chinese III.
+1183,897,GLST,23101,Global Studies I.
+1184,468,LATN,11200,Accelerated Introduction to Classical Latin II.
+1185,650,CMSC,28100,Introduction to Complexity Theory.
+1186,976,HIST,25904,Islamic History and Society III: The Modern Middle East.
+1187,1013,HIPS,20500,Intermediate Logic.
+1188,1252,MATH,26200,Point-Set Topology.
+1189,1879,SOCI,20248,"Inequality, Health, and The Life Course."
+1190,1929,SALC,22603,"Intro to Premodern South Asian Lit:  Courts, Poets, Power."
+1191,1064,HUMA,11500,Philosophical Perspectives I.
+1192,1547,PLSC,27001,The Problem of World Government.
+1193,1829,SOSC,23000,Introduction to the Civilizations of South Asia I.
+1194,745,EALC,29600,Senior Thesis Tutorial II.
+1195,2084,BIOS,10501,Metabolism and Nutrition.
+1196,1197,LING,27130,"America: Society, Polity, and Speech Community."
+1197,1455,PERS,10101,Elementary Persian I.
+1198,1323,MUSI,14300,Music Theory Fundamentals.
+1199,2166,BIOS,22250,Chordates:  Evolution and Comparative Anatomy.
+1200,189,BPRO,23760,The Social Brain: Social Isolation and Loneliness.
+1201,349,CRES,24001,Colonizations I.
+1202,90,ANTH,28200,"Naturalizing Disaster: Nature, Vulnerability, and Social History."
+1203,1631,RLST,28310,"Byzantium:  Art, Religion, Culture."
+1204,409,CLCV,21200,History and Theory of Drama I.
+1205,928,HIST,17402,"Science, Culture, and Society in Western Civilization II: History of Medicine 1."
+1206,580,CRES,28000,United States Latinos: Origins and Histories.
+1207,1184,LING,20101,Introduction to Phonetics and Phonology.
+1208,1542,PLSC,25810,Democracy in Indonesia.
+1209,151,ARTH,29800,Senior Seminar: Writing Workshop.
+1210,1196,LING,27010,Psycholinguistics.
+1211,924,HIST,16102,Introduction to Latin American Civilization II.
+1212,1113,HMRT,29001,The Practice of Human Rights.
+1213,1238,MATH,20800,Honors Analysis in Rn II.
+1214,728,EALC,24730,Imagining Environment in East Asia.
+1215,188,BPRO,23600,"Social Context, Biology, and Health."
+1216,1698,PORT,12200,Portuguese for Spanish Speakers.
+1217,1904,MALA,20300,Second-Year Malayalam III.
+1218,723,EALC,24607,Chinese Independent Documentary Film.
+1219,366,HIST,13001,History of European Civilization I.
+1220,1137,LLSO,22612,Introduction to Political Philosophy.
+1221,419,CLCV,23815,"Conquerors of the Ancient World, from Cyrus to Islam."
+1222,993,HIST,29302,Human Rights II: History and Theory.
+1223,1676,ITAL,10003,Intensive Elementary Italian I.
+1224,2088,BIOS,17101,Experimental Biology By the Sea.
+1225,140,ARTH,26302,Iconoclasm and Animation.
+1226,425,CLCV,25015,Allegory in the Western Literary Tradition.
+1227,701,KORE,20300,Intermediate Korean III.
+1228,426,CLCV,25315,Jews in Graeco Roman Egypt.
+1229,1598,RLST,11004,Introduction to the Hebrew Bible.
+1230,1370,AANL,20501,Lycian.
+1231,1553,PLSC,27725,Machiavelli's Florentine Histories.
+1232,1949,TAML,20300,Second-Year Tamil III.
+1233,974,HIST,25704,Islamic History and Society I: The Rise of Islam and the Caliphate.
+1234,410,CLCV,21807,Greek Art and Archaeology.
+1235,709,EALC,16100,Art of the East: China.
+1236,1176,ASLG,10500,Intermediate American Sign Language II.
+1237,235,CHEM,11200,Comprehensive General Chemistry II.
+1238,137,ARTH,25804,History of Photography in the USA.
+1239,864,GRMN,10200,Elementary German for Beginners II.
+1240,1530,PLSC,22400,Public Opinion.
+1241,1450,NEHC,29700,Reading and Research Course.
+1242,437,CLCV,29113,Myth Course.
+1243,1429,NEAA,20030,The Rise of the State in the Near East.
+1244,1376,ARAB,10254,Egyptian Colloquial Arabic.
+1245,105,ARTH,14200,From Missionary Images to Image Explosion: Introduction to Medieval Art.
+1246,1942,SALC,29901,Informal Reading Course.
+1247,312,CMST,23904,Senior Creative Thesis Workshop.
+1248,1510,PHIL,29601,Intensive Track Seminar.
+1249,1842,SOSC,26900,The Complex Problem of World Hunger.
+1250,30,ANTH,22205,Slavery and Unfree Labor.
+1251,1715,SPAN,20302,"Language, History, and Culture for Heritage Speakers III."
+1252,994,HIST,29303,Human Rights III: Contemporary Issues in Human Rights.
+1253,1105,HMRT,24701,Human Rights: Alien and Citizen.
+1254,236,CHEM,12100,Honors General Chemistry I.
+1255,769,FNDL,22616,Soren Kierkegaard/Johannes Climacus: Concluding Unscientific Postscript.
+1256,479,LATN,22100,Lucretius.
+1257,1124,LACS,22501,Elementary Haitian Kreyol I.
+1258,2217,BIOS,25287,Introduction to Virology.
+1259,738,EALC,27105,Concentrator's Seminar: Issues in East Asian Civilization.
+1260,1750,CZEC,20100,Second-Year Czech I.
+1261,710,EALC,16806,Arts of Japan.
+1262,552,CMLT,29705,Introduction to Comparative Literature II: Case Study: Davidismo.
+1263,588,CRES,20001,"Jewish History and Society I: The Archaeology of Israel - History, Society, Politics."
+1264,117,ARTH,17410,Frank Lloyd Wright in Chicago and Beyond.
+1265,1195,LING,25160,Themes in the Development of 20th Century Linguistics.
+1266,766,FNDL,26506,Agnes Varda.
+1267,1815,SOSC,13100,Social Science Inquiry I.
+1268,1266,MATH,29520,Introduction to Error-Correcting Codes.
+1269,1115,INST,23101,Contemporary Global Issues I.
+1270,739,EALC,27201,Visual and Material Culture of Modern Shanghai.
+1271,1255,MATH,26800,Introduction to Commutative Algebra.
+1272,1101,HMRT,21400,Health and Human Rights.
+1273,226,CHEM,00112,Collaborative Learning in General Chemistry II.
+1274,812,GEOG,25500,Biogeography.
+1275,1867,SOCI,20191,Social Change in the United States.
+1276,1057,HIPS,29700,"Readings and Research in History, Philosophy, and Social Studies of Science and Medicine."
+1277,1591,PSYC,25950,The Psychology of Stereotyping and Prejudice.
+1278,232,CHEM,10200,Introductory General Chemistry II.
+1279,1567,PSYC,20000,Fundamentals of Psychology.
+1280,835,GEOS,21205,"Introduction to Seismology, Earthquakes, and Near-Surface Earth Seismicity."
+1281,1702,PORT,20200,Advanced Portuguese.
+1282,1990,TAPS,10100,Drama: Embodiment and Transformation.
+1283,1204,MOGK,10100,Elementary Modern Greek I.
+1284,488,CCTS,40006,Pharmacogenomics:  Discovery and Implementation.
+1285,333,CMST,27602,Photography I.
+1286,267,CHEM,32500,Bioorganic Chemistry.
+1287,1798,REES,27003,Narratives of Assimilation.
+1288,1550,PLSC,27500,Organizational Decision Making.
+1289,293,ENST,27220,Environmental Management and Planning in the Calumet Region.
+1290,1599,RLST,12602,Introduction to the New Testament.
+1291,204,BPRO,25100,Evolutionary Theory and Its Role in the Human Sciences.
+1292,1953,TLGU,20100,Second-Year Telugu I.
+1293,1396,EGPT,10201,Introduction to Coptic.
+1294,817,GEOG,28400,Intermediate GIS.
+1295,1178,BASQ,12000,Elementary Basque I.
+1296,1047,HIPS,26203,Nature/Culture.
+1297,1290,NEHC,20411,Medieval Jewish History I.
+1298,1359,MUSI,28000,Orchestral Conducting.
+1299,1831,SOSC,23500,Introduction to the Civilizations of East Asia I.
+1300,1169,LLSO,28710,Democracy and the Politics of Wealth Redistribution.
+1301,829,GEOS,13400,Global Warming: Understanding the Forecast.
+1302,321,CMST,24801,Iranian Cinema.
+1303,1495,PHIL,21700,Human Rights I: Philosophical Foundations of Human Rights.
+1304,1211,SWAH,25300,Swahili II.
+1305,616,CMSC,16100,Honors Introduction to Computer Science I.
+1306,492,CHDV,20000,Introduction to Human Development.
+1307,1085,HUMA,19100,Humanities Writing Seminars.
+1308,418,CLCV,23712,"Aquinas on God, Being, and Human Nature."
+1309,1024,HIPS,22601,Medicine and Society in Twentieth-Century China.
+1310,1846,SOSC,34500,Anthropology of Museums I.
+1311,1110,HMRT,27306,U.S. Women and Gender.
+1312,1067,HUMA,12000,Greek Thought and Literature I.
+1313,847,GEOS,24230,Geophysical Fluid Dynamics: Foundations.
+1314,1610,RLST,21610,Carolingian Renaissance.
+1315,550,CMLT,29700,Reading Course.
+1316,21,ANTH,21406,Celebrity and Science in  Paleoanthropology.
+1317,1652,FREN,20300,"Language, History, and Culture III."
+1318,3,ANTH,20100,The Inka and Aztec States.
+1319,662,CHIN,20300,Intermediate Modern Chinese III.
+1320,856,GEOS,28000,Introduction to Structural Geology.
+1321,1600,RLST,17812,"In Good Faith: Religion, Economics, and the Rise of the Novel."
+1322,244,CHEM,22700,Advanced Organic/Inorganic Laboratory.
+1323,47,ANTH,23715,Self-Determination: Theory and Reality.
+1324,1552,PLSC,27702,Political Leadership: Historical and Contemporary Perspectives.
+1325,1199,LING,27605,"Language, Culture, and Thought."
+1326,15,ANTH,21265,"Celts: Ancient, Modern, and Postmodern."
+1327,1685,ITAL,20400,Corso di perfezionamento.
+1328,814,GEOG,26600,Economics of Urban Policies.
+1329,638,CMSC,25020,Computational Linguistics.
+1330,2104,BIOS,13123,Biological Evolution.
+1331,500,CHDV,21500,Darwinian Health.
+1332,2154,BIOS,21407,Image Processing in Biology.
+1333,242,CHEM,22100,Organic Chemistry II.
+1334,2057,ARTV,23904,Senior Creative Thesis Workshop.
+1335,1775,RUSS,20100,Second-Year Russian I.
+1336,790,GNSE,11002,Medieval Masculinity.
+1337,2307,PHYS,21101,Experimental Physics I.
+1338,1355,MUSI,26900,Eighteenth-Century Counterpoint.
+1339,359,HIPS,17400,"Science, Culture, and Society in Western Civilization II."
+1340,182,BPRO,22600,Autonomy and Medical Paternalism.
+1341,2121,BIOS,20171,Human Genetics and Developmental Biology.
+1342,1500,PHIL,23600,Medieval Philosophy.
+1343,1664,FREN,26103,Les Misérables.
+1344,2172,BIOS,23247,Bioarchaeology and the Human Skeleton.
+1345,1078,HUMA,14200,"Reading Cultures: Collection, Travel, Exchange III."
+1346,210,BPRO,26200,Picturing Words/Writing Images (Studio)
+1347,1602,RLST,20401,Islamic Thought and Literature I.
+1348,2153,BIOS,21358,"Simulation, Modeling, and Computation in Biophysics."
+1349,1068,HUMA,12100,Greek Thought and Literature II.
+1350,1349,MUSI,25701,Introduction to Cognitive Musicology.
+1351,1297,MENG,20000,Introduction to Emerging Technologies.
+1352,785,FNDL,26207,Reading Buddhist Scripture as Literature: The Lotus Sūtra.
+1353,2093,BIOS,12107,Cell Biology of Physiological Stress.
+1354,617,CMSC,16200,Honors Introduction to Computer Science II.
+1355,971,HIST,25415,History of Information.
+1356,1748,CZEC,10300,First-Year Czech III.
+1357,1677,ITAL,10006,Intensive Elementary Italian II.
+1358,1299,MENG,23000,Mathematical Foundation of Molecular Engineering.
+1359,2321,PHYS,26400,Spacetime and Black Holes.
+1360,1226,MATH,16200,Honors Calculus II.
+1361,1996,TAPS,15500,Beginning Screenwriting.
+1362,2127,BIOS,20188,Fundamentals of Physiology.
+1363,106,ARTH,14700,Building Renaissance Italy: A Survey of the Built Environment.
+1364,322,CMST,25100,Avant-Garde in East Central Europe.
+1365,541,CMLT,26610,The Brighter Side of the Balkans: Humor & Satire in Lit & Film.
+1366,1302,MENG,24200,Selected Topics in Molecular Engineering: Molecular/Materials Modelling II.
+1367,1487,PHIL,21219,Introduction to Philosophy of Art: What is Art?
+1368,225,CHEM,00111,Collaborative Learning in General Chemistry I.
+1369,1223,MATH,15300,Calculus III.
+1370,1173,ASLG,10200,American Sign Language II.
+1371,518,CHDV,29800,BA Honors Seminar.
+1372,1286,HIST,23514,"Neighboring Faiths: Christianity, Judaism, and Islam."
+1373,206,BPRO,25300,Utopias.
+1374,1284,HIST,23310,Animals in the Middle Ages.
+1375,1020,HIPS,21400,Intro To Medical Ethics.
+1376,675,CHIN,20800,Elementary Literary Chinese I.
+1377,1972,STAT,22600,Analysis of Categorical Data.
+1378,2039,TAPS,29800,Theater and Performance Studies BA Colloquium.
+1379,168,PHSC,12800,European Astronomy and Astrophysics.
+1380,1507,PHIL,29200,Junior Tutorial.
+1381,2158,BIOS,21417,Systems Biology:  Molecular Regulatory Logic of Networks.
+1382,370,HIST,13200,History of Western Civilization II.
+1383,1950,TLGU,10100,First-Year Telugu I.
+1384,961,HIST,24206,Medicine and Culture in Modern East Asia.
+1385,1569,PSYC,20200,Psychological Research Methods.
+1386,207,BPRO,26050,"Memory, Commemoration, and Mourning."
+1387,1641,CATA,21600,"Catalan Culture and Society: Art, Music, and Cinema."
+1388,661,CHIN,20200,Intermediate Modern Chinese II.
+1389,2071,ARTV,26600,History of International Cinema II: Sound Era to 1960.
+1390,1731,SPAN,28620,"Fiction, Memory, History: Jaume Cabré's Jo confesso."
+1391,1745,BCSN,20303,Second-Year Bosnian/Croatian/Serbian III.
+1392,285,ARTH,17400,University of Chicago Campus.
+1393,1163,LLSO,27801,Media Ecology: Embodiment and Software.
+1394,51,ANTH,24003,Colonizations III.
+1395,2038,TAPS,29500,Advanced Study: Directing Study.
+1396,2317,PHYS,23600,Solid State Physics.
+1397,1508,PHIL,29300,Senior Tutorial.
+1398,2018,TAPS,28100,Lighting Design for the Stage.
+1399,1496,PHIL,22100,Space and Time.
+1400,862,GEOS,29700,Reading and Research in the Geophysical Sciences.
+1401,707,KORE,22300,Changing Identity of Contemporary Korean through Film and Literature.
+1402,1653,FREN,20500,Ecrire en français.
+1403,1294,RLST,21801,Religion and Society in the Middle Ages.
+1404,2286,PHSC,11500,Extraterrestrial Life.
+1405,1410,HEBR,20001,Hebrew Letters and Inscriptions.
+1406,628,CMSC,23010,Parallel Computing.
+1407,2063,ARTV,24319,Writing Images/Picturing Words.
+1408,113,ARTH,16213,Andean Art and Architecture.
+1409,318,CMST,24505,Russian Cinema.
+1410,622,CMSC,22300,Functional Programming.
+1411,532,CMLT,25001,Foucault and The History of Sexuality.
+1412,1251,MATH,25900,Honors Basic Algebra III.
+1413,1392,ARME,20103,Intermediate Modern Armenian III.
+1414,171,PHYS,29300,Bachelor's Thesis.
+1415,1922,SANS,20300,Second-Year Sanskrit III.
+1416,478,LATN,21900,Roman Comedy.
+1417,772,FNDL,24301,"Ludwig Wittgenstein's ""Philosophical Investigations"""
+1418,97,ANTH,28702,Archaeologies of Political Life.
+1419,2094,BIOS,12114,Nutritional Science.
+1420,985,HIST,27605,United States Legal History.
+1421,350,CRES,24002,Colonizations II.
+1422,1692,ITAL,28702,Italian Comic Theater.
+1423,1342,MUSI,24000,Composition Lessons.
+1424,713,EALC,19900,Early Modern Japanese History.
+1425,1088,HUMA,20711,At the Piano II: Keyboard Studies for Non-Music Majors.
+1426,199,BPRO,24600,Moments in Atheism.
+1427,747,SOSC,25501,Schools and Communities.
+1428,784,FNDL,26100,Les Misérables.
+1429,1893,HIND,10100,First-Year Hindi I.
+1430,1835,SOSC,24000,Introduction to Russian Civilization I.
+1431,998,HIST,29625,History Colloquium: The European Family.
+1432,74,ANTH,26505,Non-Industrial Agriculture.
+1433,1706,PORT,29700,Readings in Special Topics.
+1434,1838,SOSC,24002,Colonizations II.
+1435,1611,RLST,22111,Mary and Mariology.
+1436,498,CHDV,21000,Cultural Psychology.
+1437,72,ANTH,25908,Balkan Folklore.
+1438,132,ARTH,24620,Introduction to Chinese Painting.
+1439,1651,FREN,20200,"Language, History, and Culture II."
+1440,735,EALC,26300,Medicine in Traditional China.
+1441,1269,ARTH,17015,"Blood, Sweat, and Tears: The Sacred Image in Byzantium."
+1442,1583,PSYC,23890,Learning and Memory.
+1443,1670,FREN,27915,Vérité et mensonges dans la littérature française de l’Ancien Régime.
+1444,1242,MATH,23500,"Markov Chains, Martingales, and Brownian Motion."
+1445,2025,TAPS,28445,Visual Language: On Objects.
+1446,59,ANTH,24705,Jurisdiction: Language and the Law.
+1447,2045,ARTV,21501,Introduction to Printmaking.
+1448,276,CHEM,36300,Statistical Thermodynamics.
+1449,1995,TAPS,10700,Introduction to Stage Design.
+1450,1476,NCDV,29900,Independent Study.
+1451,1402,EGPT,20211,Late Egyptian Texts.
+1452,161,PHSC,11902,The Secret Lives of Stars.
+1453,1661,FREN,23015,« La folie » dans la littérature française et francophone.
+1454,913,HIST,15100,Introduction to the Civilizations of East Asia I.
+1455,2117,BIOS,20150,How Can We Understand the Biosphere?
+1456,175,BPRO,29000,Energy and Energy Policy.
+1457,1863,SOCI,20125,Rational Foundations of Social Theory.
+1458,1593,PSYC,27950,Evolution and Economics of Human Behavior.
+1459,1040,HIPS,25307,History and Historiography of Science.
+1460,539,CMLT,26600,Ren/Lit Imagination.
+1461,1998,TAPS,20100,Twentieth-Century American Drama.
+1462,36,ANTH,22710,Signs and the State.
+1463,26,ANTH,22000,The Anthropology of Development.
+1464,1097,HMRT,20101,Human Rights I in Vienna: Philosophical Foundations of Human Rights.
+1465,362,HIPS,17502,"Science, Culture, and Society in Western Civilization IV: Modern Science."
+1466,120,ARTH,17610,Modernism.
+1467,1374,ARAB,10103,Elementary Arabic III.
+1468,952,HIST,22803,Machiavelli and the Uses of History.
+1469,136,ARTH,25707,Art and Death in Pre-Modern China.
+1470,950,HIST,22505,"Modern Britain, 1688 to 1901."
+1471,2113,BIOS,15106,Plagues: Past and Present.
+1472,2268,ENSC,24200,Methods in Microbial Ecology – Marine Biological Laboratory.
+1473,687,JAPN,20300,Intermediate Modern Japanese III.
+1474,2192,BIOS,24204,Cellular Neurobiology.
+1475,1233,MATH,20100,Mathematical Methods for Physical Sciences II.
+1476,118,ARTH,17411,Strategies of Modernism in Latin America.
+1477,515,CHDV,27950,Evolution and Economics of Human Behavior.
+1478,873,GRMN,21303,Gedichte.
+1479,28,ANTH,22125,Introduction to Science Studies.
+1480,1140,LLSO,24300,American Law and the Rhetoric of Race.
+1481,1581,PSYC,23249,Animal Behavior.
+1482,2152,BIOS,21357,Extracellular Matrices: Chemistry and Biology.
+1483,230,CHEM,00222,Collaborative Learning in Organic Chemistry III.
+1484,1033,HIPS,24335,Intro to Medical Anthropology & Critical Studies of Global Hea.
+1485,1301,MENG,24100,Selected Topics in Molecular Engineering: Molecular/Materials Modelling I.
+1486,107,ARTH,14800,Blood & Ink: Art at the Time of the Protestant Reformation.
+1487,779,FNDL,21300,James Joyce's Ulysses.
+1488,2257,BIOS,00296,Undergraduate Honors Research.
+1489,187,BPRO,23500,The Organization of Knowledge.
+1490,332,CMST,27600,Introduction to Black and White Film Photography.
+1491,1188,LING,21300,Historical Linguistics.
+1492,190,BPRO,23800,The Affect System.
+1493,603,CMSC,10100,Introduction to Programming for the World Wide Web I.
+1494,391,NEHC,20011,Ancient Empires I.
+1495,1886,SOCI,29999,BA Honors Paper.
+1496,2049,ARTV,22200,Introduction to Sculpture.
+1497,114,ARTH,16460,Modern Latin American Art.
+1498,1453,NELG,20301,Introduction to Comparative Semitics.
+1499,1681,ITAL,12200,Italian for Speakers of Romance Languages.
+1500,139,ARTH,26101,Painting in South Asia.
+1501,945,HIST,21305,Early Modern Britain.
+1502,1361,MUSI,29500,Undergraduate Honors Seminar.
+1503,290,ENGL,22800,Chicago.
+1504,975,HIST,25804,Islamic History and Society II: The Middle Period.
+1505,2236,BIOS,29100,Biology of Toxoplasma.
+1506,1109,HMRT,27061,United States Legal History.
+1507,463,GREK,29700,Reading Course.
+1508,381,LACS,16200,Introduction to Latin American Civilization II.
+1509,1375,ARAB,10250,Colloquial Levantine Arabic.
+1510,344,CMST,28903,Video.
+1511,302,SOCI,20142,The Chicago School of Sociology.
+1512,1535,PLSC,22913,The Practice of Social Science Research.
+1513,55,ANTH,24320,Cultural Psychology.
+1514,1227,MATH,16300,Honors Calculus III.
+1515,957,HIST,23410,"Jewish Spaces and Places, Real and Imagined."
+1516,889,YDDH,10100,Elementary Yiddish I.
+1517,1740,BCSN,20100,Second-Year Bosnian/Croatian/Serbian I.
+1518,407,CLCV,20800,Ancient Mediterranean World II.
+1519,901,GLST,27703,Earthbound Metaphysics: Speculations on Earths and Heavens.
+1520,917,HIST,15603,Ancient Empires II: The Ottoman Empire.
+1521,504,CHDV,23301,"Culture, Mental Health, and Psychiatry."
+1522,1472,TURK,20102,Intermediate Turkish II.
+1523,1850,SOCI,20002,Social Structure and Change.
+1524,1200,LING,28370,African Languages.
+1525,693,JAPN,20700,Fourth-Year Modern Japanese III.
+1526,1596,PSYC,29800,Honors Seminar.
+1527,2034,TAPS,29000,Advanced Study: Lighting Design.
+1528,2315,PHYS,23400,Quantum Mechanics I.
+1529,1572,PSYC,20600,Social Psychology.
+1530,510,CHDV,26000,Social Psychology.
+1531,1899,MALA,10100,First-Year Malayalam I.
+1532,576,CRES,24901,"Trade, Development, and Poverty in Mexico."
+1533,1296,SLAV,22302,"Literatures of the Christian East: Late Antiquity, Byzantium, and Medieval Russia."
+1534,2174,BIOS,23249,Animal Behavior.
+1535,1330,MUSI,22901,Issues in Film Music.
+1536,1560,PLSC,28901,Introduction to Comparative Politics.
+1537,2230,BIOS,27810,Global Health Sciences I: Epidemiology and Population Health.
+1538,364,HIST,10101,Introduction to African Civilization I.
+1539,80,ANTH,27130,"America: Society, Polity, and Speech Community."
+1540,1654,FREN,20601,Expression orale et phonétique.
+1541,678,CHIN,21100,Accelerated Modern Chinese for Bilingual Speakers I.
+1542,2065,ARTV,24402,Photography II.
+1543,2281,PHSC,11000,Environmental History of the Earth.
+1544,1417,HEBR,20502,Intermediate Modern Hebrew II.
+1545,319,CMST,24607,Chinese Independent Documentary Film.
+1546,388,NEHC,20004,Ancient Near Eastern Thought and Literature I: Mesopotamian Literature.
+1547,13,ANTH,21254,Pirates.
+1548,195,BPRO,24200,Psychoneuroimmunology: Links between the Nervous and Immune Systems.
+1549,926,HIST,17300,"Science, Culture, and Society in Western Civilization I."
+1550,1028,HIPS,23600,History and Theory of Human  Evolution.
+1551,1620,RLST,25405,Milton.
+1552,882,GRMN,29900,BA Paper.
+1553,62,ANTH,25118,Earthbound Metaphysics: Speculations on Earths and Heavens.
+1554,2164,BIOS,22247,Principles of Pharmacology.
+1555,205,BPRO,25200,Body and Soul: Approaches to Prayer.
+1556,946,HIST,21703,"Byzantine Empire, 1025 to 1453."
+1557,760,FNDL,23107,Introduction to Ethics.
+1558,1659,FREN,22100,L’historien antillais au 19e siècle: conquête d’une culture nationale.
+1559,314,CMST,23930,Documentary Production I.
+1560,443,GREK,11100,Accelerated Introduction to Attic Greek I.
+1561,1149,LLSO,24011,The Political Nature of the American Judicial System.
+1562,865,GRMN,10300,Elementary German for Beginners III.
+1563,933,HIST,18201,The History of American Capitalism.
+1564,502,CHDV,23220,The Politics and Psychology of Language.
+1565,686,JAPN,20200,Intermediate Modern Japanese II.
+1566,1749,CZEC,10103,First-Year Czech I.
+1567,342,CMST,28801,Digital Imaging.
+1568,1452,NEHC,29999,BA Paper Preparation.
+1569,1482,PHIL,20210,Kant's Ethics.
+1570,703,KORE,20402,Advanced Korean II.
+1571,2162,BIOS,22233,Comparative Vertebrate Anatomy.
+1572,1394,EGPT,10102,Introduction to Middle Egyptian Hieroglyphs II.
+1573,1894,HIND,10200,First-Year Hindi II.
+1574,1151,LLSO,25100,Human Rights I: Philosophical Foundations of Human Rights.
+1575,219,BPRO,27600,Creation and Creativity.
+1576,2248,BIOS,29326,Introduction to Medical Physics and Medical Imaging.
+1577,1924,SALC,20509,Hindi Cinema: from Bombay to Bollywood.
+1578,1979,STAT,24610,Pattern Recognition.
+1579,1713,SPAN,20200,"Language, History, and Culture II."
+1580,1132,LACS,29900,Preparation of the BA Essay.
+1581,2095,BIOS,12115,Responses of Cardiopulmonary System to Stress.
+1582,2309,PHYS,21103,Experimental Physics III.
+1583,1191,LING,23920,The Language of Deception and Humor.
+1584,1751,CZEC,20200,Second-Year Czech II.
+1585,1760,POLI,20200,Second-Year Polish II.
+1586,606,CMSC,10600,Fundamentals of Computer Programming II.
+1587,126,ARTH,18606,Structuring China's Built Environment.
+1588,1645,FREN,10003,Intensive Elementary French I.
+1589,2155,BIOS,21409,Cytoskeleton Dynamics and Function.
+1590,403,SALC,20100,Introduction to the Civilizations of South Asia I.
+1591,2265,ENSC,23900,Environmental Chemistry.
+1592,849,GEOS,24250,Geophysical Fluid Dynamics: Understanding the Motions of the Atmosphere and Oceans.
+1593,294,FNDL,20502,Frank Lloyd Wright in Chicago and Beyond.
+1594,752,PSYC,23200,Introduction to Language Development.
+1595,1871,SOCI,20230,Race and Ethnicity in Comparative Perspective.
+1596,1536,PLSC,23100,Democracy and the Information Technology Revolution.
+1597,1145,LLSO,28233,Machiavelli's Political Thought.
+1598,2,ANTH,20003,Discovering Anthropology: Reading Race.
+1599,1684,ITAL,20300,"Language, History, and Culture III."
+1600,793,GNSE,21001,Cultural Psychology.
+1601,162,PHSC,12600,"Matter, Energy, Space, and Time."
+1602,2175,BIOS,23252,Field Ecology.
+1603,972,HIST,25416,History of Technology in America.
+1604,42,ANTH,23102,Introduction to Latin American Civilization II.
+1605,938,HIST,18902,"Chicago Social Movements, 1954 to 2014."
+1606,326,CMST,26405,D. W. Griffith.
+1607,1626,RLST,27111,Psychology and Religion: Two Problem Children of Modernity.
+1608,1274,ENGL,11501,Chaucer and the Literary Voice.
+1609,92,ANTH,28300,Comparative Primate Morphology.
+1610,288,ECON,26600,Economics of Urban Policies.
+1611,1763,POLI,20203,Second-Year Polish II.
+1612,159,ASTR,28200,Current Topics in Astrophysics.
+1613,1383,ARAB,29001,Arabic through Film.
+1614,458,GREK,23900,Ancient Greek Hymns.
+1615,310,CMST,14507,Margins of the Medium: Text/Image.
+1616,2308,PHYS,21102,Experimental Physics II.
+1617,2051,ARTV,22500,Digital Imaging.
+1618,2080,BIOS,10130,Core Biology.
+1619,1026,HIPS,23000,The Organization of Knowledge.
+1620,764,FNDL,25910,Racine.
+1621,1584,PSYC,24000,Systems Neuroscience.
+1622,1869,SOCI,20207,Social and Cultural Organization of Non-Human Animals.
+1623,2209,BIOS,25216,Molecular Basis of Bacterial Diseases.
+1624,1522,PLSC,21007,The U.S. Presidency.
+1625,828,GEOS,13300,The Atmosphere.
+1626,1771,POLI,29900,BA Paper.
+1627,1475,NCDV,29800,Reading Course.
+1628,2212,BIOS,25228,Endocrinology III: Human Disease.
+1629,1811,SOSC,11300,"Power, Identity, and Resistance III."
+1630,2193,BIOS,24205,Systems Neuroscience.
+1631,254,CHEM,29600,Research in Chemistry.
+1632,367,HIST,13002,History of European Civilization II.
+1633,2246,BIOS,29323,Health Care and the Limits of State Action.
+1634,1551,PLSC,27600,War and the Nation State.
+1635,2238,BIOS,29270,A History of Cell and Molecular Biology.
+1636,2256,BIOS,00295,Undergraduate Honors Research.
+1637,1182,LING,.  Ad,ced Syntax.
+1638,109,ARTH,15707,American Art since the Great War.
+1639,445,GREK,11300,Accelerated Introduction to Attic Greek III.
+1640,1566,PLSC,29900,BA Thesis Supervision.
+1641,1021,HIPS,22000,Introduction to the Philosophy of Science.
+1642,1708,SPAN,10006,Intensive Elementary Spanish II.
+1643,1746,CZEC,10100,First-Year Czech I.
+1644,1192,LING,24015,Modality.
+1645,771,FNDL,23915,Plato's Republic.
+1646,951,HIST,22607,Sovereignty in Early Modern Eurasia.
+1647,1804,REES,29013,The Burden of History: The Nation and Its Lost Paradise.
+1648,229,CHEM,00221,Collaborative Learning in Organic Chemistry II.
+1649,2251,BIOS,00206,Readings: Biology.
+1650,1686,ITAL,22000,Dante's Divine Comedy 2: Purgatorio and Vita Nova.
+1651,822,GEOG,29400,Readings in Nature and Culture.
+1652,1895,HIND,10300,First-Year Hindi III.
+1653,280,CHEM,36900,Materials Chemistry.
+1654,416,CLCV,23315,"History of Skepticism, Pre-Socratic Greece to Enlightenment."
+1655,2029,TAPS,28500,Advanced Study: Acting.
+1656,2178,BIOS,23261,Invertebrate Paleobiology and Evolution.
+1657,1844,SOSC,29700,Independent Study in the Social Sciences.
+1658,2130,BIOS,20191,Integrative Physiology.
+1659,1570,PSYC,20300,Biological Psychology.
+1660,1520,PLSC,20917,Conservative Political Thought.
+1661,37,ANTH,22715,"Weber, Bakhtin, Benjamin."
+1662,1157,LLSO,26802,Public Opinion.
+1663,1431,NEAA,20122,Mesopotamian Archaeology II.
+1664,186,BPRO,23400,Is Development Sustainable?
+1665,697,KORE,10200,Introduction to the Korean Language II.
+1666,1089,HUMA,20712,At the Piano III: Keyboard Studies for Non-Music Majors.
+1667,2061,ARTV,24201,Collage.
+1668,462,GREK,27100,Origen of Alexandria.
+1669,2161,BIOS,22226,Human Developmental Biology.
+1670,2122,BIOS,20172,Mathematical Modeling for Pre-Med Students.
+1671,1189,LING,22870,Computational Semantics.
+1672,2179,BIOS,23262,Mammalian Evolutionary Biology.
+1673,176,BPRO,29660,History Colloquium: Digital Humanities/Digital History.
+1674,250,CHEM,26200,Thermodynamics.
+1675,1727,SPAN,23300,Las diagonales de Rafael en La Galatea y Miau.
+1676,2207,BIOS,25129,Animal Models of Neuropsychiatric Disorders.
+1677,1128,LACS,24513,Intermediate Haitian Kreyol II.
+1678,2313,PHYS,22700,Intermediate Electricity and Magnetism II.
+1679,1935,SALC,27904,"Wives, Widows, Prostitutes: Indian Lit & the Women's Question."
+1680,652,CMSC,29700,Reading and Research in Computer Science.
+1681,1072,HUMA,12500,Human Being and Citizen III.
+1682,275,CHEM,36200,Quantum Mechanics.
+1683,1647,FREN,10100,Beginning Elementary French I.
+1684,466,LATN,10300,Introduction to Classical Latin III.
+1685,1594,PSYC,29200,Undergraduate Reading in Psychology.
+1686,1773,RUSS,10200,First-Year Russian II.
+1687,1159,LLSO,27101,Democracy and the Information Technology Revolution.
+1688,395,NEHC,20417,"Semitic Languages, Cultures, and Civilizations II."
+1689,417,CLCV,23608,Aristophanes' Athens.
+1690,2140,BIOS,21207,Cell Biology.
+1691,1356,MUSI,27100,Topics in the History of Western Music.
+1692,160,ASTR,29700,Participation in Research.
+1693,1627,RLST,27411,Introduction to Hinduism.
+1694,1905,MARA,10100,First-Year Marathi I.
+1695,776,FNDL,25300,Lolita.
+1696,706,KORE,22200,Contemporary Korean Society and History through Fiction and Film.
+1697,2171,BIOS,23233,Ecology and Evolution in the Southwest: Field School.
+1698,1506,PHIL,27209,Soren Kierkegaard/Johannes Climacus: Concluding Unscientific Postscript.
+1699,669,CHIN,20508,Readings in Literary Chinese I.
+1700,744,EALC,29500,Senior Thesis Tutorial I.
+1701,247,CHEM,23200,Honors Organic Chemistry III.
+1702,112,ARTH,16100,Art of the East: China.
+1703,615,CMSC,15400,Introduction to Computer Systems.
+1704,1148,LLSO,23100,Environmental Law.
+1705,1346,MUSI,25300,Analysis of Twentieth-Century Music.
+1706,1236,MATH,20500,Analysis in Rn III.
+1707,346,CMST,29700,Reading and Research Course.
+1708,251,CHEM,26300,Chemical Kinetics and Dynamics.
+1709,683,JAPN,10300,Elementary Modern Japanese III.
+1710,2144,BIOS,21236,Genetics of Model Organisms.
+1711,702,KORE,20401,Advanced Korean I.
+1712,380,LACS,16100,Introduction to Latin American Civilization I.
+1713,910,HIST,14203,Freshman Colloquium: Doing History Theories and Practices.
+1714,101,ANTH,29900,Preparation of Bachelor's Essay.
+1715,1672,FREN,29900,BA Paper Preparation: French.
+1716,505,CHDV,23620,Medicine and Anthropology.
+1717,399,NEHC,20503,Islamic History and Society III: The Modern Middle East.
+1718,1518,PLSC,20915,"Race, Empire, and the Politics of Human Rights."
+1719,1574,PSYC,20850,Introduction to Human Development.
+1720,57,ANTH,24511,Anthropology of Museums I.
+1721,1126,LACS,22503,Elementary Haitian Kreyol III.
+1722,2323,PHYS,29700,Participation in Research.
+1723,1671,FREN,29700,Readings in Special Topics.
+1724,1940,SALC,29802,BA Paper.
+1725,646,CMSC,27610,Digital Biology.
+1726,2301,PHYS,14100,Honors Mechanics.
+1727,1007,HIST,29662,History Colloquium: Gender & Sexuality in US History 1620–1920.
+1728,1619,RLST,25105,Readings in Ibn Tufayl’s Hayy b. Yaqzan.
+1729,677,CHIN,21000,Elementary Literary Chinese III.
+1730,1969,STAT,22000,Statistical Methods and Applications.
+1731,1701,PORT,20100,Intermediate Portuguese.
+1732,501,CHDV,21901,"Language, Culture, and Thought."
+1733,1669,FREN,27900,"Le Livre Antillais: Culture, Écriture, et Politique."
+1734,246,CHEM,23100,Honors Organic Chemistry II.
+1735,75,ANTH,26710,Ancient Landscapes I.
+1736,978,HIST,26217,Public history & the Memory of Slavery in Brazil and the U.S.
+1737,1304,MENG,25000,Introduction to the Design Process.
+1738,1590,PSYC,25750,The Psychology and Neurobiology of Stress.
+1739,2304,PHYS,15400,Modern Physics.
+1740,1629,RLST,27615,Political Religions.
+1741,868,GRMN,20100,Deutsche Märchen.
+1742,1367,AANL,10101,Elementary Hittite I.
+1743,2276,ENSC,29700,Reading and Research in Environmental Science.
+1744,1958,TBTN,10300,First-Year Tibetan III.
+1745,9,ANTH,21102,History and Theory of Human  Evolution.
+1746,655,CHIN,10200,Elementary Modern Chinese II.
+1747,2267,ENSC,24100,Ecology – Marine Biological Laboratory.
+1748,1460,PERS,20102,Intermediate Persian II.
+1749,1786,RUSS,21502,Advanced Russian through Media III.
+1750,1974,STAT,23400,Statistical Models and Methods.
+1751,1710,SPAN,10200,Beginning Elementary Spanish II.
+1752,1083,HUMA,17100,Language and the Human II.
+1753,1074,HUMA,13600,Introduction to the Humanities II.
+1754,1253,MATH,26300,Introduction to Algebraic Topology.
+1755,954,HIST,23302,"Europe, 1815 to 1914."
+1756,315,CMST,23931,Documentary Production II.
+1757,1561,PLSC,29000,Introduction to International Relations.
+1758,115,ARTH,17121,The Art of Leonardo da Vinci.
+1759,1992,TAPS,10300,Text and Performance.
+1760,801,GNSE,23603,"Grace, Love, and Pleasure. Painting in Eighteenth Century France."
+1761,1050,HIPS,28101,Psychoanalysis and Philosophy.
+1762,1080,HUMA,16100,"Media Aesthetics: Image, Text, Sound II."
+1763,799,GNSE,23103,"Women Possessed: Religion, Gender & Sexuality in Early America."
+1764,8,ANTH,21015,"Media, Culture, and Society."
+1765,2021,TAPS,28414,Writing for Performance.
+1766,1065,HUMA,11600,Philosophical Perspectives II.
+1767,1350,MUSI,25801,The Analysis of Song.
+1768,1812,SOSC,12100,"Self, Culture, and Society I."
+1769,1712,SPAN,20100,"Language, History, and Culture I."
+1770,916,HIST,15602,Ancient Empires I.
+1771,1141,LLSO,24711,"Lincoln: Slavery, War, and the Constitution."
+1772,355,EALC,15400,Introduction to the Civilizations of East Asia IV.
+1773,1799,REES,27020,Postdependency in Contemporary Polish Prose and Discourse.
+1774,404,SALC,20200,Introduction to the Civilizations of South Asia II.
+1775,1474,NCDV,29700,Reading Course.
+1776,759,FNDL,22001,Foucault and The History of Sexuality.
+1777,1388,ARME,10102,Elementary Modern Armenian II.
+1778,1643,CATA,22515,Catalan Culture from Without and Within.
+1779,895,YDDH,29700,Reading and Research Course in Yiddish.
+1780,1081,HUMA,16200,"Media Aesthetics: Image, Text, Sound III."
+1781,1335,MUSI,23514,Chanson française.
+1782,1546,PLSC,26800,"Insurgency, Terrorism, and Civil War."
+1783,238,CHEM,12300,Honors General Chemistry III.
+1784,1890,BANG,20100,Second-Year Bangla (Bengali) I.
+1785,969,HIST,25208,Motion Pictures in the Human Sciences.
+1786,1597,RLST,10100,Introduction to Religious Studies.
+1787,1347,MUSI,25514,Chamber Music.
+1788,324,CMST,25531,Framing the I: Autobiography and Film.
+1789,1354,MUSI,26800,Sixteenth-Century Counterpoint.
+1790,2284,PHSC,11300,Everyday Physics.
+1791,1352,MUSI,26300,Introduction to Computer Music.
+1792,947,HIST,22110,Renaissance Demonology.
+1793,1517,PLSC,20914,Geoeconomic Governance.
+1794,968,HIST,25110,Philosophy of History: Narrative and Explanation.
+1795,1633,RLST,28502,Interpretations of Myth.
+1796,1336,MUSI,23611,African American Gospel Music.
+1797,253,CHEM,26800,Computational Chemistry and Biology.
+1798,442,GREK,10300,Introduction to Attic Greek III: Prose.
+1799,878,GRMN,26316,Waiting.
+1800,657,CHIN,11100,First-Year Chinese for Bilingual Speakers I.
+1801,1408,HEBR,10502,Introductory Modern Hebrew II.
+1802,194,BPRO,24160,Love and Tragedy in Tolstoy’s Anna Karenina.
+1803,456,GREK,22400,Greek Comedy: Aristophanes.
+1804,1962,URDU,10100,First-Year Urdu I.
+1805,600,BIOS,24408,Modeling and Signal Analysis for Neuroscientists.
+1806,753,SOCI,20004,Statistical Methods of Research.
+1807,2163,BIOS,22236,Reproductive Biology of Primates.
+1808,664,CHIN,20402,Advanced Modern Chinese II.
+1809,453,GREK,21800,Greek Epic.
+1810,1248,MATH,25600,Basic Algebra III.
+1811,2124,BIOS,20175,Biochemistry and Metabolism.
+1812,1010,HIST,29802,BA Thesis Seminar II.
+1813,2202,BIOS,24248,Biological Clocks and Behavior.
+1814,640,CMSC,25050,Computer Vision.
+1815,1287,HIST,25701,"North Africa, Late Antiquity to Islam."
+1816,1889,BANG,10300,First-Year Bangla (Bengali) III.
+1817,2213,BIOS,25256,Immunobiology.
+1818,1166,LLSO,28100,Law and Society.
+1819,2026,TAPS,28448,Introduction to Sculpture.
+1820,331,CMST,27241,Contemporary Film Theory II: Spectatorship and Its Discontents.
+1821,248,CHEM,23300,Organic Chemistry of Life Processes.
+1822,329,CMST,27206,Movement.
+1823,2262,ENSC,23800,Global Biogeochemical Cycles.
+1824,1210,SWAH,25200,Swahili I.
+1825,2283,PHSC,11200,Modern Physics II:  Paradoxes in Modern Physics.
+1826,1884,SOCI,29997,Readings in Sociology.
+1827,1777,RUSS,20300,Second-Year Russian III.
+1828,2132,BIOS,20197,Evolution and Ecology.
+1829,2294,PHSC,18300,Searching Between the Stars.
+1830,1351,MUSI,26100,Introduction to Composition.
+1831,1481,PHIL,20208,Film Aesthetics.
+1832,746,EALC,29903,"Knowledge, Culture, and Subjectivity since Early Modern Japan."
+1833,1501,PHIL,24010,Meaning and Reference.
+1834,345,CMST,29002,Motion Pictures in the Human Sciences.
+1835,357,GNSE,15003,Gender and Sexuality in World Civilizations II.
+1836,308,CMST,14503,Cinema in Theory and Practice.
+1837,690,JAPN,20403,Advanced Modern Japanese III.
+1838,154,ASTR,18200,The Origin and Evolution of the Universe.
+1839,1918,SANS,10200,First-Year Sanskrit II.
+1840,1401,EGPT,20210,Introduction to Late Egyptian.
+1841,1662,FREN,24610,Introduction au théâtre français.
+1842,270,CHEM,33100,New Synthetic Reactions and Catalysts.
+1843,6,ANTH,20701,Introduction to African Civilization I.
+1844,1778,RUSS,20702,Third-Year Russian through Culture I.
+1845,688,JAPN,20401,Advanced Modern Japanese I.
+1846,841,GEOS,23205,Introductory Glaciology.
+1847,1615,RLST,23900,Buddhist Thought in India and Tibet.
+1848,1311,MENG,26202,Thermodynamics and Statistical Mechanics II.
+1849,2137,BIOS,20242,Principles of Physiology.
+1850,1313,MENG,27200,Quantum Materials.
+1851,1722,SPAN,21500,Introducción al análisis literario.
+1852,1909,MARA,20200,Second-Year Marathi II.
+1853,2187,BIOS,23406,Biogeography.
+1854,209,BPRO,26102,War.
+1855,1405,HEBR,10102,Elementary Classical Hebrew II.
+1856,717,EALC,24220,Reinventing the Chinese Stage in the Twentieth Century.
+1857,681,JAPN,10100,Elementary Modern Japanese I.
+1858,1037,HIPS,25110,Philosophy of History: Narrative and Explanation.
+1859,1606,RLST,20485,Jews in Graeco Roman Egypt.
+1860,1358,MUSI,27300,Topics in the History of Western Music.
+1861,1337,MUSI,23614,American Musics.
+1862,630,CMSC,23300,Networks and Distributed Systems.
+1863,174,BPRO,28600,Health Care and the Limits of State Action.
+1864,1986,STAT,27850,"Multiple Testing, Modern Inference, and Replicability."
+1865,1018,HIPS,21200,Big Science and the Birth of the National Security State.
+1866,2239,BIOS,29279,Topics in Global Health.
+1867,1030,HIPS,23900,Biological and Cultural Evolution.
+1868,788,GNSE,10310,Theories of Gender and Sexuality.
+1869,144,ARTH,27202,The Politics of Provenance.
+1870,1881,SOCI,28068,Opposing the State.
+1871,99,ANTH,29500,Archaeology Laboratory Practicum.
+1872,521,CMLT,20225,Multilingualism and Translation in Modern Jewish Literature.
+1873,2306,PHYS,19700,Statistical and Thermal Physics.
+1874,133,ARTH,24812,Museums and Art.
+1875,2288,PHSC,12500,Molecular Mechanisms of Human Disease.
+1876,1970,STAT,22200,Linear Models and Experimental Design.
+1877,1413,HEBR,20104,Intermediate Classical Hebrew I.
+1878,2007,TAPS,24000,Director/Designer Collaboration.
+1879,1601,RLST,20222,"Writing the Jewish Body: Health, Disease, Literature."
+1880,755,FNDL,20700,"Aquinas on God, Being, and Human Nature."
+1881,1717,SPAN,20500,Composición y conversación avanzada II.
+1882,1688,ITAL,23710,Sulla sopravvivenza.
+1883,1325,MUSI,15200,Harmony and Voice Leading.
+1884,1622,RLST,26200,Reading Buddhist Scripture as Literature: The Lotus Sūtra.
+1885,1767,POLI,20700,Third-Year Polish III.
+1886,1694,ITAL,29900,BA Paper Preparation: Italian.
+1887,549,CMLT,29302,"South Asian Aesthetics: Rasa to Rap, Kamasutra to Kant."
+1888,352,EALC,10800,Introduction to the Civilizations of East Asia I.
+1889,627,CMSC,23000,Operating Systems.
+1890,303,SOCI,20215,Urban Health.
+1891,1973,STAT,22700,Biostatistical Methods.
+1892,1714,SPAN,20300,"Language, History, and Culture III."
+1893,569,CRES,24255,"Everyday Maoism: Work, Daily Life, and Material Culture in Socialist China."
+1894,1038,HIPS,25203,Media Ecology: Embodiment and Software.
+1895,2280,PHSC,10900,Ice-Age Earth.
+1896,134,ARTH,25105,Chichen Itza.
+1897,2222,BIOS,25419,Infectious Disease Epidemiology; Networks and Modeling.
+1898,538,CMLT,26400,Introduction to the Renaissance.
+1899,2019,TAPS,28400,History and Theory of Drama I.
+1900,122,ARTH,17700,19th Century French Art in the Art Institute.
+1901,1817,SOSC,13300,Social Science Inquiry III.
+1902,231,CHEM,10100,Introductory General Chemistry I.
+1903,879,GRMN,26715,Anxiety.
+1904,1540,PLSC,25703,Plato's Laws: On the Juridical and the Aesthetic.
+1905,245,CHEM,23000,Honors Organic Chemistry I.
+1906,2235,BIOS,02490,Biology and Sociology of AIDS.
+1907,1398,EGPT,20101,Middle Egyptian Texts II.
+1908,1921,SANS,20200,Second-Year Sanskrit II.
+1909,854,GEOS,26650,Environmental Microbiology.
+1910,1147,LLSO,22209,"Introduction to Black Chicago, 1893 to 2010."
+1911,427,CLCV,25415,Text into Data:  Digital Philology.
+1912,130,ARTH,23603,"Grace, Love, and Pleasure. Painting in Eighteenth Century France."
+1913,1002,HIST,29657,"History Colloquium: Populism, War, and Development in Latin America, 1919 to 1950."
+1914,1412,HEBR,20003,Punic Inscriptions.
+1915,480,LATN,22200,Roman Satire.
+1916,64,ANTH,25250,The Human Behind Human Rights.
+1917,444,GREK,11200,Accelerated Introduction to Attic Greek II.
+1918,1322,MUSI,10400,Introduction to Music: Analysis and Criticism.
+1919,1939,SALC,29801,BA Paper.
+1920,503,CHDV,23249,Animal Behavior.
+1921,1793,REES,25600,Realism in Russia.
+1922,1341,MUSI,23911,Jewish Music.
+1923,729,EALC,25401,Confucius and Laozi.
+1924,904,GLST,29801,BA Thesis Seminar II.
+1925,2016,TAPS,27900,Shopcraft: Methods and Materials.
+1926,845,GEOS,23900,Environmental Chemistry.
+1927,1243,MATH,24100,Topics in Geometry.
+1928,584,CRES,31800,Religious Movements in Native North America.
+1929,1326,MUSI,15300,Harmony and Voice Leading.
+1930,337,CMST,28200,Nonfiction Film: Representations and Performance.
+1931,525,CMLT,21202,Decolonizing Drama and Performance in Africa.
+1932,85,ANTH,27510,Language and Temporality: Ethnographies of Time.
+1933,1609,RLST,21400,"Latin American Religions, New and Old."
+1934,2194,BIOS,24206,Peering Inside the Black Box: Neocortex.
+1935,360,HIPS,17402,"Science, Culture, and Society in Western Civilization II: History of Medicine 1."
+1936,597,CRES,29900,Preparation for the BA Essay.
+1937,1254,MATH,26700,Introduction to Representation Theory of Finite Groups.
+1938,279,CHEM,36800,Advanced Computational Chemistry and Biology.
+1939,863,GRMN,10100,Elementary German for Beginners I.
+1940,2073,ARTV,27210,Intermediate/Advanced Painting.
+1941,441,GREK,10200,Introduction to Attic Greek II.
+1942,2098,BIOS,12118,The Descent of Man: Human Health across the Ages.
+1943,1187,LING,21000,Morphology.
+1944,1734,BCSN,10100,First-Year Bosnian/Croatian/Serbian I.
+1945,694,JAPN,21200,Intermediate Modern Japanese through Japanimation I.
+1946,266,CHEM,32400,Physical Organic Chemistry II.
+1947,1462,SUMR,10101,Elementary Sumerian I.
+1948,537,CMLT,26106,The Medieval Persian Romance: Gorgani's Vis and Ramin.
+1949,1847,SOSC,34600,Anthropology of Museums II.
+1950,682,JAPN,10200,Elementary Modern Japanese II.
+1951,1353,MUSI,26400,Introduction to Computer Music.
+1952,1160,LLSO,27200,Human Rights III: Contemporary Issues in Human Rights.
+1953,948,HIST,22111,Mary and Mariology.
+1954,1015,HIPS,20800,Evolutionary Processes.
+1955,1604,RLST,20403,Islamic Thought and Literature III.
+1956,309,CMST,14504,Film Comedy.
+1957,850,GEOS,24705,"Energy: Science, Technology, and Human Usage."
+1958,2203,BIOS,24249,Neurobiology of Seeing.
+1959,401,NEHC,20602,Islamic Thought and Literature II.
+1960,2274,ENSC,29002,Field Course in Modern and Ancient Environments.
+1961,964,HIST,24509,The Merchant in Chinese Culture.
+1962,1954,TLGU,20200,Second-Year Telugu II.
+1963,673,CHIN,20602,Fifth-Year Modern Chinese II.
+1964,153,ASTR,18100,The Milky Way.
+1965,2260,ENSC,13400,Global Warming: Understanding the Forecast.
+1966,962,HIST,24209,Imagining Environment in East Asia.
+1967,761,FNDL,24211,Lucretius and Marx.
+1968,2227,BIOS,27713,Quantitative Environmental Analyses – Marine Biological Laboratory.
+1969,179,BPRO,22300,Empire.
+1970,2009,TAPS,25200,Neo-Futurists Performance Workshop.
+1971,1206,MOGK,10300,Elementary Modern Greek III.
+1972,1092,HUMA,25202,Media Ecology: Embodiment and Software.
+1973,2259,ENSC,13300,The Atmosphere.
+1974,397,NEHC,20501,Islamic History and Society I: The Rise of Islam and the Caliphate.
+1975,1816,SOSC,13200,Social Science Inquiry II.
+1976,1941,SALC,29900,Informal Reading Course.
+1977,1441,NEHC,20507,"Byzantine Empire, 1025 to 1453."
+1978,1562,PLSC,29202,The Secret Side of International Politics.
+1979,1959,TBTN,20100,Second-Year Tibetan I.
+1980,696,KORE,10100,Introduction to the Korean Language I.
+1981,1848,SOSC,39000,Anthropology of Disability.
+1982,1915,PALI,20200,Second-Year Pali II.
+1983,1058,HIPS,29800,Junior Seminar: My Favorite Readings in the History and Philosophy of Science.
+1984,1063,HUMA,11200,Readings in World Literature III.
+1985,27,ANTH,22105,The Anthropology of Science.
+1986,1312,MENG,27100,Biological Materials.
+1987,313,CMST,23905,Creative Thesis Workshop.
+1988,988,HIST,28406,Nineteenth-Century Segment of the United States History Survey.
+1989,2253,BIOS,00290,Interdisciplinary Research Seminar I.
+1990,2300,PHYS,13300,"Waves, Optics, and Heat."
+1991,2086,BIOS,10603,Multiscale Modeling of Biological Systems II.
+1992,218,BPRO,27500,The Origins and Consequences of Differences in Human Capabilities.
+1993,816,GEOG,28201,Intro to Geographic Information Systems.
+1994,433,CLCV,25715,The Immigrant in Classical Greek Thought.
+1995,147,ARTH,28002,Islamic Art and Architecture of the Medieval Perso-Turkic Courts (11th–15th Centuries)
+1996,1185,LING,20201,Introduction to Syntax.
+1997,668,CHIN,20503,Fourth-Year Modern Chinese III.
+1998,94,ANTH,28420,"Death, the Body, and the Ends of Life."
+1999,252,CHEM,26700,Experimental Physical Chemistry.
+2000,469,LATN,11300,Accelerated Introduction to Classical Latin III.
+2001,593,CRES,27605,United States Legal History.
+2002,287,CMST,21801,Chicago Film History.
+2003,629,CMSC,23200,Introduction to Computer Security.
+2004,1239,MATH,20900,Honors Analysis in Rn III.
+2005,1776,RUSS,20200,Second-Year Russian II.
+2006,212,BPRO,26400,Movies and Madness.
+2007,1511,PHIL,29700,Reading Course: Philosophy.
+2008,386,NEHC,20002,Ancient Near Eastern History and Society II: Mesopotamia.
+2009,1967,URDU,20300,Second-Year Urdu III.
+2010,1823,SOSC,15300,Classics of Social and Political Thought III.
+2011,1056,HIPS,29615,Tutorial: The Social Sciences in Post-War America.
+2012,1366,AKKD,10103,Elementary Akkadian III.
+2013,1066,HUMA,11700,Philosophical Perspectives III.
+2014,519,CHDV,29900,Honors Paper Preparation.
+2015,1707,SPAN,10003,Intensive Elementary Spanish I.
+2016,1319,MUSI,10100,Introduction to Western Art Music.
+2017,1732,SPAN,29700,Readings in Special Topics.
+2018,343,CMST,28902,Reading Madness.
+2019,1116,INST,23102,Contemporary Global Issues II.
+2020,213,BPRO,26500,Picturing Words/Writing Images (Studio)
+2021,1537,PLSC,23915,Plato's Republic.
+2022,405,CLCV,14113,Introduction to Roman Art and Archaeology.
+2023,990,HIST,28800,Historical Geography of the United States.
+2024,823,GEOG,29500,Readings in Culture and Nationality.
+2025,996,HIST,29408,Human Rights in Mexico.
+2026,1790,REES,21000,Gombrowicz: The Writer as Philosopher.
+2027,452,GREK,21700,Lyric and Epinician Poetry.
+2028,430,CLCV,25700,Ancient Empires I.
+2029,1479,PHIL,20105,Naturalism.
+2030,855,GEOS,27300,Biological Evolution.
+2031,511,CHDV,27821,Urban Schools and Communities.
+2032,413,CLCV,22114,The Poems of Ovid.
+2033,39,ANTH,22910,Performance and Politics in India.
+2034,2109,BIOS,13140,The Public and Private Lives of Insects.
+2035,2298,PHYS,13100,Mechanics.
+2036,1483,PHIL,20214,Final Ends.
+2037,1387,ARME,10101,Elementary Modern Armenian I.
+2038,658,CHIN,11200,First-Year Chinese for Bilingual Speakers II.
+2039,378,HIST,16800,Ancient Mediterranean World II.
+2040,1171,LLSO,29400,Research Seminar.
+2041,621,CMSC,22200,Computer Architecture.
+2042,1075,HUMA,13700,Introduction to the Humanities III.
+2043,87,ANTH,27615,Citationality and Performativity.
+2044,2272,ENSC,25200,Global Warming: Understanding the Forecast.
+2045,991,HIST,28900,Roots of the Modern American City.
+2046,2030,TAPS,28600,Advanced Study: Directing.
+2047,824,GEOG,29700,Readings in Special Topics in Geography.
+2048,1343,MUSI,24416,Opera as Idea and as Performance.
+2049,1448,NEHC,28002,Islamic Art and Architecture of the Medieval Perso-Turkic Courts (11th–15th Centuries)
+2050,810,GEOG,22700,Urban Structure and Process.
+2051,1391,ARME,20102,Intermediate Modern Armenian II.
+2052,935,HIST,18302,Colonizations II.
+2053,1424,KAZK,20103,Intermediate Kazakh III.
+2054,808,GEOG,21900,Historical Geography of the United States.
+2055,832,GEOS,21005,Mineral Science.
+2056,1768,POLI,24100,Polish Through Literary Readings I.
+2057,540,CMLT,26601,Kinds of Narratives: the Novella.
+2058,2022,TAPS,28442,Thinking Tragedy: Nietzsche’s Geburt der Tragödie.
+2059,918,HIST,15604,Ancient Empires III: The Egyptian Empire of the New Kingdom.
+2060,1747,CZEC,10200,First-Year Czech II.
+2061,1729,SPAN,24701,Literaturas del Caribe Hispánico Insular en el siglo XX.
+2062,920,HIST,15703,"Semitic Languages, Cultures, and Civilizations II."
+2063,1639,CATA,11200,Accelerated Catalan II.
+2064,1464,SUMR,10103,Elementary Sumerian III.
+2065,165,PHSC,12700,Stars.
+2066,1608,RLST,20701,The Autobiography of Teresa of Avila.
+2067,1821,SOSC,15100,Classics of Social and Political Thought I.
+2068,645,CMSC,27500,Graph Theory.
+2069,2218,BIOS,25308,Heterogeneity in Human Cancer:  Etiology and Treatment.
+2070,915,HIST,15300,Introduction to the Civilizations of East Asia III.
+2071,923,HIST,16101,Introduction to Latin American Civilization I.
+2072,684,JAPN,19000,Introduction to Classical Japanese.
+2073,1663,FREN,25910,Racine.
+2074,836,GEOS,21400,Thermodynamics and Phase Change.
+2075,1505,PHIL,25209,"Emotion, Reason, and Law."
+2076,574,CRES,16103,Introduction to Latin American Civilization III.
+2077,589,CRES,20140,Qualitative Field Methods.
+2078,514,CHDV,27903,Beginning Modern Spoken Yucatec Maya III.
+2079,2027,TAPS,28452,Media Ecology: Embodiment and Software.
+2080,826,GEOS,13100,Physical Geology.
+2081,818,GEOG,28600,Advanced GIS Analysis.
+2082,742,EALC,27907,Asian Wars of the Twentieth Century.
+2083,922,HIST,15801,Introduction to the Middle East.
+2084,1783,RUSS,21202,Fourth-Year Russian through Short Story III.
+2085,455,GREK,22314,Hellenistic/Imperial Literature.
+2086,2258,BIOS,00299,Advanced Research: Biological Sciences.
+2087,1162,LLSO,27704,Political Leadership: Historical and Contemporary Perspectives.
+2088,33,ANTH,22535,Engaging Media: Thinking about Media and Their Audiences.
+2089,2157,BIOS,21416,Stem Cells and Regeneration.
+2090,1131,LACS,29801,BA Colloquium.
+2091,644,CMSC,27410,Honors Combinatorics.
+2092,1340,MUSI,23900,Rock.
+2093,1991,TAPS,10200,Acting Fundamentals.
+2094,292,ENGL,25953,Transmedia Game.
+2095,536,CMLT,25960,The Archaeological Imagination.
+2096,1744,BCSN,20300,Second-Year Bosnian/Croatian/Serbian III.
+2097,233,CHEM,11300,Comprehensive General Chemistry III.
+2098,632,CMSC,23340,Grid Computing.
+2099,464,LATN,10100,Introduction to Classical Latin I.
+2100,866,GRMN,10201,Elementary German II.
+2101,659,CHIN,11300,First-Year Chinese for Bilingual Speakers III.
+2102,1999,TAPS,21600,Acting Workshop.
+2103,1527,PLSC,21811,Global Justice.
+2104,2112,BIOS,14114,Drugs Galore:  What They Are and What They Do to You.
+2105,2311,PHYS,22100,Mathematical Methods in Physics.
+2106,2266,ENSC,24000,Geobiology.
+2107,2247,BIOS,29325,Social Epidemiology.
+2108,240,CHEM,20200,Inorganic Chemistry II.
+2109,2015,TAPS,27800,Story through Music and Sound.
+2110,949,HIST,22115,Carolingian Renaissance.
+2111,2159,BIOS,21506,Biological Physics.
+2112,1616,RLST,24050,Understanding Wisdom.
+2113,1430,NEAA,20035,Zooarchaeology.
+2114,1265,MATH,28410,Honors Combinatorics.
+2115,1368,AANL,10102,Elementary Hittite II.
+2116,1845,SOSC,29900,BA Paper in Russian Civilization.
+2117,786,FNDL,26405,D. W. Griffith.
+2118,1276,ENGL,15600,Medieval English Literature.
+2119,2110,BIOS,13253,Apes and Human Evolution.
+2120,756,FNDL,29901,Independent Study: Junior Paper.
+2121,1059,HIPS,29810,Bachelor's Thesis Workshop.
+2122,595,CRES,29302,Human Rights II: History and Theory.
+2123,2013,TAPS,27500,Costume Design for the Stage.
+2124,1696,PORT,10200,Beginning Elementary Portuguese II.
+2125,1459,PERS,20101,Intermediate Persian I.
+2126,2058,ARTV,23905,Creative Thesis Workshop.
+2127,1736,BCSN,10200,First-Year Bosnian/Croatian/Serbian II.
+2128,846,GEOS,24220,Climate Foundations.
+2129,1146,LLSO,28702,"Ludwig Wittgenstein's ""Philosophical Investigations"""
+2130,1240,MATH,21100,Basic Numerical Analysis.
+2131,545,CMLT,27602,Renaissance Demonology.
+2132,1834,SOSC,23801,Introduction to the Civilizations of East Asia IV.
+2133,434,CLCV,25808,Roman Law.
+2134,428,CLCV,25510,Homer's Odyssey.
+2135,2091,BIOS,11128,Introduction to Human Genetics.
+2136,2103,BIOS,13115,From So Simple a Beginning: Evolution.
+2137,1625,RLST,26801,Many Ramayanas.
+2138,328,CMST,27205,Film Aesthetics.
+2139,1263,MATH,28000,Introduction to Formal Languages.
+2140,666,CHIN,20501,Fourth-Year Modern Chinese I.
+2141,893,YDDH,24216,"Writing the Jewish Body: Health, Disease, Literature."
+2142,1887,BANG,10100,First-Year Bangla (Bengali) I.
+2143,173,BPRO,24000,Understanding Wisdom.
+2144,725,EALC,24611,Cities in Sinophone Cinemas.
+2145,1327,MUSI,21814,Introduction to Conducting.
+2146,1006,HIST,29661,History Colloquium: Digital Humanities/Digital History.
+2147,389,NEHC,20005,Ancient Near Eastern Thought and Literature II: Anatolian Literature.
+2148,881,GRMN,29700,Reading and Research Course in German.
+2149,869,GRMN,20200,Deutsch-Amerikanische Themen.
+2150,743,EALC,28400,"Communities, Media, and Selves in Modern Chinese Literature."
+2151,1423,KAZK,20102,Intermediate Kazakh II.
+2152,887,NORW,28500,Comparative Fairy Tale.
+2153,2107,BIOS,13128,Plant-Animal Interactions.
+2154,68,ANTH,25410,Anthropology of Everyday Life.
+2155,2145,BIOS,21237,Developmental Mechanisms.
+2156,2305,PHYS,18500,Intermediate Mechanics.
+2157,169,PHYS,29100,Bachelor's Thesis.
+2158,323,CMST,25204,Media Ecology: Embodiment and Software.
+2159,1515,PLSC,20693,"Psychology of Power: Hobbes, Spinoza, and Nietzsche."
+2160,1903,MALA,20200,Second-Year Malayalam II.
+2161,269,CHEM,33000,Complex Chemical Systems.
+2162,1857,SOCI,20107,Sociology of Human Sexuality.
+2163,608,CMSC,11100,Multimedia Programming as an Interdisciplinary Art II.
+2164,1469,TURK,10106,Introduction to Old Turkic II.
+2165,1739,BCSN,10303,First-Year Bosnian/Croatian/Serbian III.
+2166,1154,LLSO,26201,Economics and Environmental Policy.
+2167,483,LATN,29700,Reading Course.
+2168,1468,TURK,10105,Introduction to Old Turkic I.
+2169,884,NORW,10200,First-Year Norwegian II.
+2170,1843,SOSC,29500,Readings in Social Sciences in a Foreign Language.
+2171,1201,LING,28600,Computational Linguistics.
+2172,1864,SOCI,20126,Japanese Society: Functional/Cultural Explanations.
+2173,1372,ARAB,10101,Elementary Arabic I.
+2174,474,LATN,21200,Roman Novel.
+2175,2254,BIOS,00291,Interdisciplinary Research Seminar II.
+2176,1190,LING,23220,The Politics and Psychology of Language.
+2177,1888,BANG,10200,First-Year Bangla (Bengali) II.
+2178,1765,POLI,20500,Third-Year Polish I.
+2179,79,ANTH,26900,Archaeological Data Sets.
+2180,1478,PHIL,20100,Elementary Logic.
+2181,227,CHEM,00113,Collaborative Learning in General Chemistry III.
+2182,128,ARTH,21313,"Video Art: The Analog Years. Theory, Technology, Practice."
+2183,91,ANTH,28210,Colonial Ecologies.
+2184,639,CMSC,25025,Machine Learning and Large-Scale Data Analysis.
+2185,573,CRES,16102,Introduction to Latin American Civilization II.
+2186,1946,TAML,10300,First-Year Tamil III.
+2187,1121,INST,29800,BA Thesis (Autumn Seminar)
+2188,2077,ARTV,29700,Independent Study in Visual Arts.
+2189,1621,RLST,25900,Medieval Philosophy.
+2190,1624,RLST,26623,Narratives of Assimilation.
+2191,1221,MATH,15100,Calculus I.
+2192,263,CHEM,32100,Physical Organic Chemistry I.
+2193,838,GEOS,22050,Formation of Planetary Systems in our Galaxy: From Planetesimals to Planets.
+2194,1225,MATH,16100,Honors Calculus I.
+2195,1471,TURK,20101,Intermediate Turkish I.
+2196,1016,HIPS,21000,Introduction to Ethics.
+2197,1554,PLSC,28005,How Groups Choose.
+2198,1910,MARA,20300,Second-Year Marathi III.
+2199,1203,LING,29900,BA Paper Preparation Course.
+2200,485,CCTS,21002,The Good Physician.
+2201,791,GNSE,20170,The Sociology of Deviant Behavior.
+2202,939,HIST,19801,The Autobiography of Teresa of Avila.
+2203,1094,HMRT,20100,Human Rights I: Philosophical Foundations of Human Rights.
+2204,871,GRMN,21103,Erzählen.
+2205,2211,BIOS,25227,Endocrinology II: Systems and Physiology.
+2206,208,BPRO,26101,On Love: Classical and Modern Perspectives.
+2207,34,ANTH,22606,Indigeneities.
+2208,1943,SALC,29902,Informal Reading Course.
+2209,286,ARTV,23930,Documentary Production I.
+2210,1571,PSYC,20400,Cognitive Psychology.
+2211,1983,STAT,26700,History of Statistics.
+2212,84,ANTH,27505,Professional Persuasions: The Rhetoric of Expertise in Modern Life.
+2213,1079,HUMA,16000,"Media Aesthetics: Image, Text, Sound I."
+2214,1491,PHIL,21505,"Wonder, Magic, and Skepticism."
+2215,1726,SPAN,22003,Introducción a las literaturas hispánicas: del Modernismo al presente.
+2216,512,CHDV,27901,Beginning Modern Spoken Yucatec Maya I.
+2217,2176,BIOS,23254,Mammalian Ecology.
+2218,2099,BIOS,12119,Essentials of Exercise Physiology and Nutrition.
+2219,1755,POLI,10300,First-Year Polish III.
+2220,1420,KAZK,10102,Elementary Kazakh II.
+2221,2006,TAPS,23800,Playwriting: Writing Utilizing Improvisation.
+2222,1273,ARTH,23005,Medieval Islamic Art and Architecture: Mongols and Mamluks.
+2223,127,ARTH,18700,The Arts of Arabic and Persian Manuscripts.
+2224,1046,HIPS,26000,History of Philosophy II: Medieval and Early Modern Philosophy.
+2225,40,ANTH,22915,The Crowd.
+2226,1504,PHIL,25000,History of Philosophy I: Ancient Philosophy.
+2227,890,YDDH,10200,Elementary Yiddish II.
+2228,672,CHIN,20601,Fifth-Year Modern Chinese I.
+2229,2200,BIOS,24246,Neurobiology of Disease I.
+2230,1678,ITAL,10100,Beginning Elementary Italian I.
+2231,891,YDDH,10300,Elementary Yiddish III.
+2232,387,NEHC,20003,Ancient Near Eastern History and Society III: Anatolia and Levant.
+2233,637,CMSC,23800,Game Construction.
+2234,1797,REES,26800,Balkan Folklore.
+2235,1438,NEHC,20225,Multilingualism and Translation in Modern Jewish Literature.
+2236,1357,MUSI,27200,Topics in the History of Western Music.
+2237,516,CHDV,29002,The Human Behind Human Rights.
+2238,1766,POLI,20600,Third-Year Polish II.
+2239,604,CMSC,10200,Introduction to Programming for the World Wide Web II.
+2240,598,BIOS,24231,Methods in Computational Neuroscience.
+2241,1638,CATA,11100,Accelerated Catalan I.
+2242,414,CLCV,22115,Carolingian Renaissance.
+2243,719,EALC,24310,Nature in Korean Literature and Visual Culture.
+2244,1186,LING,20301,Introduction to Semantics and Pragmatics.
+2245,2023,TAPS,28443,Multiples in Wood and Metal.
+2246,237,CHEM,12200,Honors General Chemistry II.
+2247,382,LACS,16300,Introduction to Latin American Civilization III.
+2248,78,ANTH,26830,Archaeology of Religious Experience.
+2249,1976,STAT,24400,Statistical Theory and Methods I.
+2250,1377,ARAB,19999,Skills Review for Intermediate Arabic.
+2251,2275,ENSC,29005,Field Course in Environmental Science.
+2252,757,FNDL,29902,Independent Study: Senior Examination.
+2253,671,CHIN,20510,Readings in Literary Chinese III.
+2254,1108,HMRT,26151,Human Rights and Human Diversity.
+2255,804,GNSE,29600,Feminist Philosophy.
+2256,1513,PHIL,29902,Senior Seminar II.
+2257,234,CHEM,11100,Comprehensive General Chemistry I.
+2258,1244,MATH,24200,Algebraic Number Theory.
+2259,1300,MENG,23100,Applied Numerical Methods in Molecular Engineering.
+2260,211,BPRO,26300,Globalization: History and Theory.
+2261,983,HIST,27102,"Lincoln: Slavery, War, and the Constitution."
+2262,1118,INST,27702,About Nature: From Science to Sense.
+2263,853,GEOS,26600,Geobiology.
+2264,1718,SPAN,20402,Curso de redacción académica para hablantes nativos.
+2265,459,GREK,25000,Mastering Greek.
+2266,1892,BANG,20300,Second-Year Bangla (Bengali) III.
+2267,763,FNDL,25815,On the Natural History of Destruction: W. G. Sebald.
+2268,734,EALC,26202,Reading Buddhist Scripture as Literature: The Lotus Sūtra.
+2269,422,CLCV,24216,Plato's Republic.
+2270,1439,NEHC,20485,Jews in Graeco Roman Egypt.
+2271,1305,MENG,26010,Conservation Equations.
+2272,704,KORE,20403,Advanced Korean III.
+2273,1427,NEAA,17205,Islamic Gardens in Landscape and Image.
+2274,1095,HMRT,20200,Human Rights II: History and Theory.
+2275,1870,SOCI,20226,Urban Schools and Communities.
+2276,356,GNSE,15002,Gender and Sexuality in World Civilizations I.
+2277,1155,LLSO,26202,Economics of Urban Policies.
+2278,2237,BIOS,29265,Evolution and Economics of Human Behavior.
+2279,2204,BIOS,25108,Cancer Biology.
+2280,494,CHDV,20101,Applied Statistics in Human Development Research.
+2281,943,HIST,20803,Aristophanes' Athens.
+2282,806,GEOG,20000,Orientation Seminar.
+2283,2081,BIOS,10450,Pharmacological Perspectives in Cell and Molecular Biology.
+2284,568,CRES,21264,Political Struggles of Highland Asia.
+2285,773,FNDL,24330,Short Stories from a Late Ming Collection.
+2286,2043,ARTV,15000,Art Practice and Theory.
+2287,2032,TAPS,28800,Advanced Study: Scenic Design.
+2288,1103,HMRT,23302,Humanitarianism: History and Theory.
+2289,1130,LACS,29700,Reading and Research in Latin American Studies.
+2290,780,FNDL,21404,Shakespeare II: Tragedies and Romances.
+2291,1285,HIST,23510,The Arts of Language in the Middle Ages: The Trivium.
+2292,439,CLCV,29800,BA Paper Seminar.
+2293,821,GEOG,29300,Readings in Geographic Literature in French.
+2294,1293,PHIL,26000,History of Philosophy II: Medieval and Early Modern Philosophy.
+2295,1789,REES,20004,Lolita.
+2296,1061,HUMA,11000,Readings in World Literature I.
+2297,1393,EGPT,10101,Introduction to Middle Egyptian Hieroglyphs I.
+2298,1216,MATH,11200,Studies in Mathematics I.
+2299,1951,TLGU,10200,First-Year Telugu II.
+2300,1165,LLSO,28010,United States Legal History.
+2301,4,ANTH,20405,Anthropology of Disability.
+2302,421,CLCV,24215,Roman Art II: Late Antique and Early Christian Art and Architecture.
+2303,534,CMLT,25015,Allegory in the Western Literary Tradition.
+2304,61,ANTH,25117,About Nature: From Science to Sense.
+2305,1428,NEAA,20001,Archaeology of the Ancient Near East I: Mesopotamia.
+2306,1818,SOSC,14100,Mind I.
+2307,932,HIST,17805,America in the Twentieth Century.
+2308,506,CHDV,24335,Intro to Medical Anthropology & Critical Studies of Global Hea.
+2309,1071,HUMA,12400,Human Being and Citizen II.
+2310,1541,PLSC,25715,The Immigrant in Classical Greek Thought.
+2311,2050,ARTV,22306,Hybridity and the Multiple: A Course on Moldmaking.
+2312,1795,REES,26047,Pushkin and Gogol.
+2313,711,EALC,18606,Structuring China's Built Environment.
+2314,691,JAPN,20500,Fourth-Year Modern Japanese I.
+2315,1543,PLSC,25900,Japanese Politics.
+2316,792,GNSE,21209,The Woman in Modern Greek Literature.
+2317,1960,TBTN,20200,Second-Year Tibetan II.
+2318,155,ASTR,18300,Searching Between the Stars.
+2319,2060,ARTV,24121,Adopted Strategies.
+2320,1564,PLSC,29700,Independent Study.
+2321,911,HIST,15001,"Little Ice Age, 1500 to 1800: Climate, Crisis, Energy Revolution."
+2322,123,ARTH,17708,The Plan: Diagramming Modernity in the Twentieth Century.
+2323,1213,SWAH,26800,Intermediate Swahili I.
