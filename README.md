@@ -1,8 +1,25 @@
 # About_Me
-My name is Jingwen Lu (She/Her/Hers), Nice to meet you!
 
-I got my BA in Zhejiang University, one of the best universities in Mainlain China. I majored in English (focusing on Linguistics) and minored in Psychology. I have abundant experience in experimental design, data collection, data analysis and data interpretation. I also led a variety of funded student research programs in fields from Natural Language Programming, Machine learning, to Human-Computer Interaction, Survey Designing, and Methodological Explorative Research. In general, my experience mainly lies in Applied Psychology and Psycholinguistics.
+My name is Jingwen Lu (She/Her/Hers), and this is my Profolio! 
 
-I then completed a MA program in Linguistics in Zhejiang University. 
+You can find my CV and my Python coding experience here.
 
-Now I am a MA Candidate in Computational Social Science (An interdisciplinary Subject: Computational Social Science = Data Science + Social Science).
+Here is the structure of the profolio:
+
+Python Projects/
+├── Data_Management/
+│   ├── PA1_Scraper & WebCrawler/
+│   ├── PA2_Data Pipeline & Integration Using SQL/
+│   ├── PA3_Record Linkage/
+│   └── PA4_Algorithms_Hash Table & Markove Chain in NLP/
+├── Machine_Learning/
+│   ├── AI Agents Interaction Pattern Analysis.ipynb
+│   ├── AI Agents Interaction Pattern Analysis.pdf
+│   └── Project Presentation.pptx
+└── Python_Application/
+    ├── PA1_SocialScience_Epidemic Simulation/
+    ├── PA2_SocialScience_Modeling Language Shifts/
+    ├── PA3_NLP_Election Tweets Analysis/
+    ├── PA4_DataStructure_Polling Places/
+    ├── PA5_NumpyPandas_Linear Regression/
+    └── PA6_Recursion_Avian Biodiversity Treemaps/
